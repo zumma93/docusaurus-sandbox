@@ -1,0 +1,173 @@
+
+  
+  <div class="cover ">
+    
+    <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":tasSdk:navi-provider-sdk:NaviProvider:dokkaHtmlPartial/testRelease"><div class="symbol monospace"><span class="token keyword">enum </span><a href="index-">TrafficEventType</a> : <a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-enum/index.html">Enum</a><span class="token operator">&lt;</span><span class="token keyword"></span><a href="index-">TrafficEventType</a><span class="token operator">&gt; </span></div></div></div>
+  </div>
+  <div class="tabbedcontent">
+    <div class="tabs-section" tabs-section="tabs-section"><button class="section-tab" data-active="" data-togglable="CONSTRUCTOR,TYPE,PROPERTY,FUNCTION">Members</button><button class="section-tab" data-togglable="ENTRY">Entries</button></div>
+    <div class="tabs-section-body">
+      <div data-togglable="ENTRY">
+        <h2 class="">Entries</h2>
+        <div class="table"><a data-name="-1289235191%2FClasslikes%2F-1641032607" anchor-label="ETC" id="-1289235191%2FClasslikes%2F-1641032607" data-filterable-set=":tasSdk:navi-provider-sdk:NaviProvider:dokkaHtmlPartial/testRelease"></a>
+          <div class="table-row" data-togglable="ENTRY" data-filterable-current=":tasSdk:navi-provider-sdk:NaviProvider:dokkaHtmlPartial/testRelease" data-filterable-set=":tasSdk:navi-provider-sdk:NaviProvider:dokkaHtmlPartial/testRelease">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="-e-t-c/index-">ETC</a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1289235191%2FClasslikes%2F-1641032607"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":tasSdk:navi-provider-sdk:NaviProvider:dokkaHtmlPartial/testRelease"><div class="symbol monospace"><div class="block"><a href="-e-t-c/index-">ETC</a></div></div><div class="brief "><p class="paragraph">ETC 기타</p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="-1645246718%2FClasslikes%2F-1641032607" anchor-label="ACCIDENT" id="-1645246718%2FClasslikes%2F-1641032607" data-filterable-set=":tasSdk:navi-provider-sdk:NaviProvider:dokkaHtmlPartial/testRelease"></a>
+          <div class="table-row" data-togglable="ENTRY" data-filterable-current=":tasSdk:navi-provider-sdk:NaviProvider:dokkaHtmlPartial/testRelease" data-filterable-set=":tasSdk:navi-provider-sdk:NaviProvider:dokkaHtmlPartial/testRelease">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="-a-c-c-i-d-e-n-t/index-">ACCIDENT</a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1645246718%2FClasslikes%2F-1641032607"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":tasSdk:navi-provider-sdk:NaviProvider:dokkaHtmlPartial/testRelease"><div class="symbol monospace"><div class="block"><a href="-a-c-c-i-d-e-n-t/index-">ACCIDENT</a></div></div><div class="brief "><p class="paragraph">Accident 사고</p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="-1201926525%2FClasslikes%2F-1641032607" anchor-label="ROAD_DAMAGE" id="-1201926525%2FClasslikes%2F-1641032607" data-filterable-set=":tasSdk:navi-provider-sdk:NaviProvider:dokkaHtmlPartial/testRelease"></a>
+          <div class="table-row" data-togglable="ENTRY" data-filterable-current=":tasSdk:navi-provider-sdk:NaviProvider:dokkaHtmlPartial/testRelease" data-filterable-set=":tasSdk:navi-provider-sdk:NaviProvider:dokkaHtmlPartial/testRelease">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="-r-o-a-d_-d-a-m-a-g-e/index-">ROAD_DAMAGE</a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1201926525%2FClasslikes%2F-1641032607"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":tasSdk:navi-provider-sdk:NaviProvider:dokkaHtmlPartial/testRelease"><div class="symbol monospace"><div class="block"><a href="-r-o-a-d_-d-a-m-a-g-e/index-">ROAD_DAMAGE</a></div></div><div class="brief "><p class="paragraph">Road Damage 도로 파손</p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="959801386%2FClasslikes%2F-1641032607" anchor-label="REPAIRING" id="959801386%2FClasslikes%2F-1641032607" data-filterable-set=":tasSdk:navi-provider-sdk:NaviProvider:dokkaHtmlPartial/testRelease"></a>
+          <div class="table-row" data-togglable="ENTRY" data-filterable-current=":tasSdk:navi-provider-sdk:NaviProvider:dokkaHtmlPartial/testRelease" data-filterable-set=":tasSdk:navi-provider-sdk:NaviProvider:dokkaHtmlPartial/testRelease">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="-r-e-p-a-i-r-i-n-g/index-">REPAIRING</a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="959801386%2FClasslikes%2F-1641032607"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":tasSdk:navi-provider-sdk:NaviProvider:dokkaHtmlPartial/testRelease"><div class="symbol monospace"><div class="block"><a href="-r-e-p-a-i-r-i-n-g/index-">REPAIRING</a></div></div><div class="brief "><p class="paragraph">Repairing 도로 공사</p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="725462863%2FClasslikes%2F-1641032607" anchor-label="EVENT" id="725462863%2FClasslikes%2F-1641032607" data-filterable-set=":tasSdk:navi-provider-sdk:NaviProvider:dokkaHtmlPartial/testRelease"></a>
+          <div class="table-row" data-togglable="ENTRY" data-filterable-current=":tasSdk:navi-provider-sdk:NaviProvider:dokkaHtmlPartial/testRelease" data-filterable-set=":tasSdk:navi-provider-sdk:NaviProvider:dokkaHtmlPartial/testRelease">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="-e-v-e-n-t/index-">EVENT</a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="725462863%2FClasslikes%2F-1641032607"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":tasSdk:navi-provider-sdk:NaviProvider:dokkaHtmlPartial/testRelease"><div class="symbol monospace"><div class="block"><a href="-e-v-e-n-t/index-">EVENT</a></div></div><div class="brief "><p class="paragraph">Event 행사</p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="-1766640556%2FClasslikes%2F-1641032607" anchor-label="DISASTER" id="-1766640556%2FClasslikes%2F-1641032607" data-filterable-set=":tasSdk:navi-provider-sdk:NaviProvider:dokkaHtmlPartial/testRelease"></a>
+          <div class="table-row" data-togglable="ENTRY" data-filterable-current=":tasSdk:navi-provider-sdk:NaviProvider:dokkaHtmlPartial/testRelease" data-filterable-set=":tasSdk:navi-provider-sdk:NaviProvider:dokkaHtmlPartial/testRelease">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="-d-i-s-a-s-t-e-r/index-">DISASTER</a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1766640556%2FClasslikes%2F-1641032607"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":tasSdk:navi-provider-sdk:NaviProvider:dokkaHtmlPartial/testRelease"><div class="symbol monospace"><div class="block"><a href="-d-i-s-a-s-t-e-r/index-">DISASTER</a></div></div><div class="brief "><p class="paragraph">Disaster 재난/재해</p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div data-togglable="PROPERTY">
+        <h2 class="">Properties</h2>
+        <div class="table"><a data-name="-372974862%2FProperties%2F-1641032607" anchor-label="name" id="-372974862%2FProperties%2F-1641032607" data-filterable-set=":tasSdk:navi-provider-sdk:NaviProvider:dokkaHtmlPartial/testRelease"></a>
+          <div class="table-row" data-filterable-current=":tasSdk:navi-provider-sdk:NaviProvider:dokkaHtmlPartial/testRelease" data-filterable-set=":tasSdk:navi-provider-sdk:NaviProvider:dokkaHtmlPartial/testRelease">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="../-turn-type/-t-u-r-n_-r-e-s-t-a-r-e-a/index-#-372974862%2FProperties%2F-1641032607"><span><span>name</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-372974862%2FProperties%2F-1641032607"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":tasSdk:navi-provider-sdk:NaviProvider:dokkaHtmlPartial/testRelease"><div class="symbol monospace"><span class="token keyword"></span><span class="token keyword">val </span><a href="../-turn-type/-t-u-r-n_-r-e-s-t-a-r-e-a/index-#-372974862%2FProperties%2F-1641032607">name</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html">String</a></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="-739389684%2FProperties%2F-1641032607" anchor-label="ordinal" id="-739389684%2FProperties%2F-1641032607" data-filterable-set=":tasSdk:navi-provider-sdk:NaviProvider:dokkaHtmlPartial/testRelease"></a>
+          <div class="table-row" data-filterable-current=":tasSdk:navi-provider-sdk:NaviProvider:dokkaHtmlPartial/testRelease" data-filterable-set=":tasSdk:navi-provider-sdk:NaviProvider:dokkaHtmlPartial/testRelease">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="../-turn-type/-t-u-r-n_-r-e-s-t-a-r-e-a/index-#-739389684%2FProperties%2F-1641032607"><span><span>ordinal</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-739389684%2FProperties%2F-1641032607"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":tasSdk:navi-provider-sdk:NaviProvider:dokkaHtmlPartial/testRelease"><div class="symbol monospace"><span class="token keyword"></span><span class="token keyword">val </span><a href="../-turn-type/-t-u-r-n_-r-e-s-t-a-r-e-a/index-#-739389684%2FProperties%2F-1641032607">ordinal</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html">Int</a></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div data-togglable="FUNCTION">
+        <h2 class="">Functions</h2>
+        <div class="table"><a data-name="-655660881%2FFunctions%2F-1641032607" anchor-label="valueOf" id="-655660881%2FFunctions%2F-1641032607" data-filterable-set=":tasSdk:navi-provider-sdk:NaviProvider:dokkaHtmlPartial/testRelease"></a>
+          <div class="table-row" data-filterable-current=":tasSdk:navi-provider-sdk:NaviProvider:dokkaHtmlPartial/testRelease" data-filterable-set=":tasSdk:navi-provider-sdk:NaviProvider:dokkaHtmlPartial/testRelease">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="value-of-"><span>value</span><wbr><span><span>Of</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-655660881%2FFunctions%2F-1641032607"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":tasSdk:navi-provider-sdk:NaviProvider:dokkaHtmlPartial/testRelease"><div class="symbol monospace"><span class="token keyword"></span><span class="token keyword">fun </span><a href="value-of-"><span class="token function">valueOf</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">value<span class="token operator">: </span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html">String</a></span></span><span class="token punctuation">)</span><span class="token operator">: </span><a href="index-">TrafficEventType</a></div><div class="brief "><p class="paragraph">Returns the enum constant of this type with the specified name. The string must match exactly an identifier used to declare an enum constant in this type. (Extraneous whitespace characters are not permitted.)</p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="603423739%2FFunctions%2F-1641032607" anchor-label="values" id="603423739%2FFunctions%2F-1641032607" data-filterable-set=":tasSdk:navi-provider-sdk:NaviProvider:dokkaHtmlPartial/testRelease"></a>
+          <div class="table-row" data-filterable-current=":tasSdk:navi-provider-sdk:NaviProvider:dokkaHtmlPartial/testRelease" data-filterable-set=":tasSdk:navi-provider-sdk:NaviProvider:dokkaHtmlPartial/testRelease">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="values-"><span><span>values</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="603423739%2FFunctions%2F-1641032607"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":tasSdk:navi-provider-sdk:NaviProvider:dokkaHtmlPartial/testRelease"><div class="symbol monospace"><span class="token keyword"></span><span class="token keyword">fun </span><a href="values-"><span class="token function">values</span></a><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token operator">: </span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-array/index.html">Array</a><span class="token operator">&lt;</span><span class="token keyword"></span><a href="index-">TrafficEventType</a><span class="token operator">&gt;</span></div><div class="brief "><p class="paragraph">Returns an array containing the constants of this enum type, in the order they're declared.</p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>

@@ -1,0 +1,6 @@
+
+  
+  <div class="cover ">
+    
+  </div>
+  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":tasSdk:navi-provider-sdk:NaviProvider:dokkaHtmlPartial/testRelease"><div class="symbol monospace"><span class="token keyword">open </span><span class="token keyword"></span><span class="token keyword">fun </span><a href="on-move-map-to-current-location-request-"><span class="token function">onMoveMapToCurrentLocationRequest</span></a><span class="token punctuation">(</span><span class="token punctuation">)</span></div><p class="paragraph">Called when the request of moving map to current location has been called.</p></div></div>

@@ -1,0 +1,29 @@
+
+  
+  <div class="cover ">
+    
+  </div>
+  <div class="tabbedcontent">
+    <div class="tabs-section" tabs-section="tabs-section"><button class="section-tab" data-active="" data-togglable="TYPE">Types</button></div>
+    <div class="tabs-section-body">
+      <div data-togglable="TYPE">
+        <h2 class="">Types</h2>
+        <div class="table"><a data-name="-291802053%2FClasslikes%2F1222288809" anchor-label="TextToSpeech" id="-291802053%2FClasslikes%2F1222288809" data-filterable-set=":tasSdk:tts-sdk:TextToSpeech:dokkaHtmlPartial/testRelease"></a>
+          <div class="table-row" data-filterable-current=":tasSdk:tts-sdk:TextToSpeech:dokkaHtmlPartial/testRelease" data-filterable-set=":tasSdk:tts-sdk:TextToSpeech:dokkaHtmlPartial/testRelease">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="-text-to-speech/index-"><span>Text</span><wbr><span>To</span><wbr><span><span>Speech</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-291802053%2FClasslikes%2F1222288809"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":tasSdk:tts-sdk:TextToSpeech:dokkaHtmlPartial/testRelease"><div class="symbol monospace"><span class="token keyword">class </span><a href="-text-to-speech/index-">TextToSpeech</a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">context<span class="token operator">: </span><a href="https://developer.android.com/reference/kotlin/android/content/Context.html">Context</a></span></span><span class="token punctuation">)</span></div><div class="brief "><p class="paragraph">Synthesizes speech from text for immediate playback.</p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>

@@ -1,0 +1,6 @@
+
+  
+  <div class="cover ">
+    
+  </div>
+  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":tasSdk:vehicle-sdk:Vehicle:dokkaHtmlPartial/testRelease"><div class="symbol monospace"><span class="token keyword"></span><span class="token keyword">fun </span><a href="get-side-mirror-"><span class="token function">getSideMirror</span></a><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token operator">: </span><a href="../../ai.umos.connect.vehicle.api/-side-mirror/index-">SideMirror</a></div><p class="paragraph">Gets the object of SideMirror to use SideMirror APIs.</p></div></div>

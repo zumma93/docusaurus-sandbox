@@ -1,0 +1,6 @@
+
+  
+  <div class="cover ">
+    
+  </div>
+  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":tasSdk:navi-provider-sdk:NaviProvider:dokkaHtmlPartial/testRelease"><div class="symbol monospace"><span class="token keyword"></span><span class="token keyword">fun </span><a href="notify-d-b-updated-"><span class="token function">notifyDBUpdated</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">dbType<span class="token operator">: </span><a href="../../../../navi-provider-sdk/NaviProvider/ai.umos.connect.navi.constants/-navi-d-b-type/index-">NaviDBType</a></span></span><span class="token punctuation">)</span></div><p class="paragraph">Notify navigation database has been updated.</p><h4 class="">Parameters</h4><div class="table"><div class="table-row" data-filterable-current=":tasSdk:navi-provider-sdk:NaviProvider:dokkaHtmlPartial/testRelease" data-filterable-set=":tasSdk:navi-provider-sdk:NaviProvider:dokkaHtmlPartial/testRelease"><div class="main-subrow keyValue "><div class=""><span class="inline-flex"><div><u><span>db</span><wbr><span><span>Type</span></span></u></div></span></div><div><div class="title"><p class="paragraph">Int</p></div></div></div></div></div></div></div>

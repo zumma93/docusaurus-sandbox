@@ -1,0 +1,240 @@
+
+  
+  <div class="cover ">
+    
+    <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":tasSdk:vehicle-sdk:Vehicle:dokkaHtmlPartial/testRelease"><div class="symbol monospace"><span class="token keyword">interface </span><a href="index-">Light</a></div></div></div>
+  </div>
+  <div class="tabbedcontent">
+    <div class="tabs-section" tabs-section="tabs-section"><button class="section-tab" data-active="" data-togglable="CONSTRUCTOR,TYPE,PROPERTY,FUNCTION">Members</button></div>
+    <div class="tabs-section-body">
+      <div data-togglable="FUNCTION">
+        <h2 class="">Functions</h2>
+        <div class="table"><a data-name="-297618445%2FFunctions%2F776984860" anchor-label="getCurrentFrontFogLightState" id="-297618445%2FFunctions%2F776984860" data-filterable-set=":tasSdk:vehicle-sdk:Vehicle:dokkaHtmlPartial/testRelease"></a>
+          <div class="table-row" data-filterable-current=":tasSdk:vehicle-sdk:Vehicle:dokkaHtmlPartial/testRelease" data-filterable-set=":tasSdk:vehicle-sdk:Vehicle:dokkaHtmlPartial/testRelease">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="get-current-front-fog-light-state-"><span>get</span><wbr><span>Current</span><wbr><span>Front</span><wbr><span>Fog</span><wbr><span>Light</span><wbr><span><span>State</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-297618445%2FFunctions%2F776984860"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":tasSdk:vehicle-sdk:Vehicle:dokkaHtmlPartial/testRelease"><div class="symbol monospace"><div class="block"><div class="block"><span class="token annotation builtin">@</span><a href="https://developer.android.com/reference/kotlin/androidx/annotation/RequiresPermission.html"><span class="token annotation builtin">RequiresPermission</span></a></div></div><span class="token keyword">abstract </span><span class="token keyword"></span><span class="token keyword">fun </span><a href="get-current-front-fog-light-state-"><span class="token function">getCurrentFrontFogLightState</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">onComplete<span class="token operator">: </span><span class="token punctuation">(</span><span class="token keyword"></span><a href="../../ai.umos.connect.vehicle.constant.control/-light-state/index-">LightState</a><span class="token operator">?</span><span class="token punctuation">)</span><span class="token operator"> -&gt; </span><span class="token keyword"></span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html">Unit</a><span class="token punctuation">, </span></span><span class="parameter ">onFailed<span class="token operator">: </span><span class="token punctuation">(</span><span class="token keyword"></span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-exception/index.html">Exception</a><span class="token punctuation">)</span><span class="token operator"> -&gt; </span><span class="token keyword"></span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html">Unit</a></span></span><span class="token punctuation">)</span></div><div class="brief "><p class="paragraph">Gets current front fog light state. The method is protected by the signature permission: umos.car.permission.CAR_EXTERIOR_LIGHTS.</p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="1897615831%2FFunctions%2F776984860" anchor-label="getCurrentHighBeamLightState" id="1897615831%2FFunctions%2F776984860" data-filterable-set=":tasSdk:vehicle-sdk:Vehicle:dokkaHtmlPartial/testRelease"></a>
+          <div class="table-row" data-filterable-current=":tasSdk:vehicle-sdk:Vehicle:dokkaHtmlPartial/testRelease" data-filterable-set=":tasSdk:vehicle-sdk:Vehicle:dokkaHtmlPartial/testRelease">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="get-current-high-beam-light-state-"><span>get</span><wbr><span>Current</span><wbr><span>High</span><wbr><span>Beam</span><wbr><span>Light</span><wbr><span><span>State</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="1897615831%2FFunctions%2F776984860"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":tasSdk:vehicle-sdk:Vehicle:dokkaHtmlPartial/testRelease"><div class="symbol monospace"><div class="block"><div class="block"><span class="token annotation builtin">@</span><a href="https://developer.android.com/reference/kotlin/androidx/annotation/RequiresPermission.html"><span class="token annotation builtin">RequiresPermission</span></a></div></div><span class="token keyword">abstract </span><span class="token keyword"></span><span class="token keyword">fun </span><a href="get-current-high-beam-light-state-"><span class="token function">getCurrentHighBeamLightState</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">onComplete<span class="token operator">: </span><span class="token punctuation">(</span><span class="token keyword"></span><a href="../../ai.umos.connect.vehicle.constant.control/-light-state/index-">LightState</a><span class="token operator">?</span><span class="token punctuation">)</span><span class="token operator"> -&gt; </span><span class="token keyword"></span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html">Unit</a><span class="token punctuation">, </span></span><span class="parameter ">onFailed<span class="token operator">: </span><span class="token punctuation">(</span><span class="token keyword"></span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-exception/index.html">Exception</a><span class="token punctuation">)</span><span class="token operator"> -&gt; </span><span class="token keyword"></span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html">Unit</a></span></span><span class="token punctuation">)</span></div><div class="brief "><p class="paragraph">Gets current high beam light state. The method is protected by the signature permission: umos.car.permission.CAR_EXTERIOR_LIGHTS.</p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="1832989899%2FFunctions%2F776984860" anchor-label="getCurrentLowBeamLightState" id="1832989899%2FFunctions%2F776984860" data-filterable-set=":tasSdk:vehicle-sdk:Vehicle:dokkaHtmlPartial/testRelease"></a>
+          <div class="table-row" data-filterable-current=":tasSdk:vehicle-sdk:Vehicle:dokkaHtmlPartial/testRelease" data-filterable-set=":tasSdk:vehicle-sdk:Vehicle:dokkaHtmlPartial/testRelease">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="get-current-low-beam-light-state-"><span>get</span><wbr><span>Current</span><wbr><span>Low</span><wbr><span>Beam</span><wbr><span>Light</span><wbr><span><span>State</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="1832989899%2FFunctions%2F776984860"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":tasSdk:vehicle-sdk:Vehicle:dokkaHtmlPartial/testRelease"><div class="symbol monospace"><div class="block"><div class="block"><span class="token annotation builtin">@</span><a href="https://developer.android.com/reference/kotlin/androidx/annotation/RequiresPermission.html"><span class="token annotation builtin">RequiresPermission</span></a></div></div><span class="token keyword">abstract </span><span class="token keyword"></span><span class="token keyword">fun </span><a href="get-current-low-beam-light-state-"><span class="token function">getCurrentLowBeamLightState</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">onComplete<span class="token operator">: </span><span class="token punctuation">(</span><span class="token keyword"></span><a href="../../ai.umos.connect.vehicle.constant.control/-light-state/index-">LightState</a><span class="token operator">?</span><span class="token punctuation">)</span><span class="token operator"> -&gt; </span><span class="token keyword"></span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html">Unit</a><span class="token punctuation">, </span></span><span class="parameter ">onFailed<span class="token operator">: </span><span class="token punctuation">(</span><span class="token keyword"></span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-exception/index.html">Exception</a><span class="token punctuation">)</span><span class="token operator"> -&gt; </span><span class="token keyword"></span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html">Unit</a></span></span><span class="token punctuation">)</span></div><div class="brief "><p class="paragraph">Gets current low beam light state. The method is protected by the signature permission: umos.car.permission.CAR_CONNECT_VENDOR_CONTROL.</p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="1781684628%2FFunctions%2F776984860" anchor-label="getCurrentRearFogLightState" id="1781684628%2FFunctions%2F776984860" data-filterable-set=":tasSdk:vehicle-sdk:Vehicle:dokkaHtmlPartial/testRelease"></a>
+          <div class="table-row" data-filterable-current=":tasSdk:vehicle-sdk:Vehicle:dokkaHtmlPartial/testRelease" data-filterable-set=":tasSdk:vehicle-sdk:Vehicle:dokkaHtmlPartial/testRelease">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="get-current-rear-fog-light-state-"><span>get</span><wbr><span>Current</span><wbr><span>Rear</span><wbr><span>Fog</span><wbr><span>Light</span><wbr><span><span>State</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="1781684628%2FFunctions%2F776984860"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":tasSdk:vehicle-sdk:Vehicle:dokkaHtmlPartial/testRelease"><div class="symbol monospace"><div class="block"><div class="block"><span class="token annotation builtin">@</span><a href="https://developer.android.com/reference/kotlin/androidx/annotation/RequiresPermission.html"><span class="token annotation builtin">RequiresPermission</span></a></div></div><span class="token keyword">abstract </span><span class="token keyword"></span><span class="token keyword">fun </span><a href="get-current-rear-fog-light-state-"><span class="token function">getCurrentRearFogLightState</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">onComplete<span class="token operator">: </span><span class="token punctuation">(</span><span class="token keyword"></span><a href="../../ai.umos.connect.vehicle.constant.control/-light-state/index-">LightState</a><span class="token operator">?</span><span class="token punctuation">)</span><span class="token operator"> -&gt; </span><span class="token keyword"></span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html">Unit</a><span class="token punctuation">, </span></span><span class="parameter ">onFailed<span class="token operator">: </span><span class="token punctuation">(</span><span class="token keyword"></span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-exception/index.html">Exception</a><span class="token punctuation">)</span><span class="token operator"> -&gt; </span><span class="token keyword"></span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html">Unit</a></span></span><span class="token punctuation">)</span></div><div class="brief "><p class="paragraph">Gets current rear fog light state. The method is protected by the signature permission: umos.car.permission.CAR_EXTERIOR_LIGHTS.</p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="292790304%2FFunctions%2F776984860" anchor-label="getCurrentTailLampLightState" id="292790304%2FFunctions%2F776984860" data-filterable-set=":tasSdk:vehicle-sdk:Vehicle:dokkaHtmlPartial/testRelease"></a>
+          <div class="table-row" data-filterable-current=":tasSdk:vehicle-sdk:Vehicle:dokkaHtmlPartial/testRelease" data-filterable-set=":tasSdk:vehicle-sdk:Vehicle:dokkaHtmlPartial/testRelease">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="get-current-tail-lamp-light-state-"><span>get</span><wbr><span>Current</span><wbr><span>Tail</span><wbr><span>Lamp</span><wbr><span>Light</span><wbr><span><span>State</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="292790304%2FFunctions%2F776984860"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":tasSdk:vehicle-sdk:Vehicle:dokkaHtmlPartial/testRelease"><div class="symbol monospace"><div class="block"><div class="block"><span class="token annotation builtin">@</span><a href="https://developer.android.com/reference/kotlin/androidx/annotation/RequiresPermission.html"><span class="token annotation builtin">RequiresPermission</span></a></div></div><span class="token keyword">abstract </span><span class="token keyword"></span><span class="token keyword">fun </span><a href="get-current-tail-lamp-light-state-"><span class="token function">getCurrentTailLampLightState</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">onComplete<span class="token operator">: </span><span class="token punctuation">(</span><span class="token keyword"></span><a href="../../ai.umos.connect.vehicle.constant.control/-light-state/index-">LightState</a><span class="token operator">?</span><span class="token punctuation">)</span><span class="token operator"> -&gt; </span><span class="token keyword"></span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html">Unit</a><span class="token punctuation">, </span></span><span class="parameter ">onFailed<span class="token operator">: </span><span class="token punctuation">(</span><span class="token keyword"></span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-exception/index.html">Exception</a><span class="token punctuation">)</span><span class="token operator"> -&gt; </span><span class="token keyword"></span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html">Unit</a></span></span><span class="token punctuation">)</span></div><div class="brief "><p class="paragraph">Gets current tail lamp light state. The method is protected by the signature permission: umos.car.permission.CAR_CONNECT_VENDOR_CONTROL.</p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="-575417454%2FFunctions%2F776984860" anchor-label="getFrontFogLightSwitch" id="-575417454%2FFunctions%2F776984860" data-filterable-set=":tasSdk:vehicle-sdk:Vehicle:dokkaHtmlPartial/testRelease"></a>
+          <div class="table-row" data-filterable-current=":tasSdk:vehicle-sdk:Vehicle:dokkaHtmlPartial/testRelease" data-filterable-set=":tasSdk:vehicle-sdk:Vehicle:dokkaHtmlPartial/testRelease">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="get-front-fog-light-switch-"><span>get</span><wbr><span>Front</span><wbr><span>Fog</span><wbr><span>Light</span><wbr><span><span>Switch</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-575417454%2FFunctions%2F776984860"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":tasSdk:vehicle-sdk:Vehicle:dokkaHtmlPartial/testRelease"><div class="symbol monospace"><div class="block"><div class="block"><span class="token annotation builtin">@</span><a href="https://developer.android.com/reference/kotlin/androidx/annotation/RequiresPermission.html"><span class="token annotation builtin">RequiresPermission</span></a></div></div><span class="token keyword">abstract </span><span class="token keyword"></span><span class="token keyword">fun </span><a href="get-front-fog-light-switch-"><span class="token function">getFrontFogLightSwitch</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">onComplete<span class="token operator">: </span><span class="token punctuation">(</span><span class="token keyword"></span><a href="../../ai.umos.connect.vehicle.constant.control/-light-switch/index-">LightSwitch</a><span class="token operator">?</span><span class="token punctuation">)</span><span class="token operator"> -&gt; </span><span class="token keyword"></span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html">Unit</a><span class="token punctuation">, </span></span><span class="parameter ">onFailed<span class="token operator">: </span><span class="token punctuation">(</span><span class="token keyword"></span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-exception/index.html">Exception</a><span class="token punctuation">)</span><span class="token operator"> -&gt; </span><span class="token keyword"></span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html">Unit</a></span></span><span class="token punctuation">)</span></div><div class="brief "><p class="paragraph">Gets current tail front fog switch. The method is protected by the signature permission: umos.car.permission.CONTROL_CAR_EXTERIOR_LIGHTS.</p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="215779446%2FFunctions%2F776984860" anchor-label="getHighBeamLightSwitch" id="215779446%2FFunctions%2F776984860" data-filterable-set=":tasSdk:vehicle-sdk:Vehicle:dokkaHtmlPartial/testRelease"></a>
+          <div class="table-row" data-filterable-current=":tasSdk:vehicle-sdk:Vehicle:dokkaHtmlPartial/testRelease" data-filterable-set=":tasSdk:vehicle-sdk:Vehicle:dokkaHtmlPartial/testRelease">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="get-high-beam-light-switch-"><span>get</span><wbr><span>High</span><wbr><span>Beam</span><wbr><span>Light</span><wbr><span><span>Switch</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="215779446%2FFunctions%2F776984860"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":tasSdk:vehicle-sdk:Vehicle:dokkaHtmlPartial/testRelease"><div class="symbol monospace"><div class="block"><div class="block"><span class="token annotation builtin">@</span><a href="https://developer.android.com/reference/kotlin/androidx/annotation/RequiresPermission.html"><span class="token annotation builtin">RequiresPermission</span></a></div></div><span class="token keyword">abstract </span><span class="token keyword"></span><span class="token keyword">fun </span><a href="get-high-beam-light-switch-"><span class="token function">getHighBeamLightSwitch</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">onComplete<span class="token operator">: </span><span class="token punctuation">(</span><span class="token keyword"></span><a href="../../ai.umos.connect.vehicle.constant.control/-light-switch/index-">LightSwitch</a><span class="token operator">?</span><span class="token punctuation">)</span><span class="token operator"> -&gt; </span><span class="token keyword"></span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html">Unit</a><span class="token punctuation">, </span></span><span class="parameter ">onFailed<span class="token operator">: </span><span class="token punctuation">(</span><span class="token keyword"></span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-exception/index.html">Exception</a><span class="token punctuation">)</span><span class="token operator"> -&gt; </span><span class="token keyword"></span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html">Unit</a></span></span><span class="token punctuation">)</span></div><div class="brief "><p class="paragraph">Gets current high beam light switch. The method is protected by the signature permission: umos.car.permission.CONTROL_CAR_EXTERIOR_LIGHTS.</p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="1749824560%2FFunctions%2F776984860" anchor-label="getLowBeamLightSwitch" id="1749824560%2FFunctions%2F776984860" data-filterable-set=":tasSdk:vehicle-sdk:Vehicle:dokkaHtmlPartial/testRelease"></a>
+          <div class="table-row" data-filterable-current=":tasSdk:vehicle-sdk:Vehicle:dokkaHtmlPartial/testRelease" data-filterable-set=":tasSdk:vehicle-sdk:Vehicle:dokkaHtmlPartial/testRelease">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="get-low-beam-light-switch-"><span>get</span><wbr><span>Low</span><wbr><span>Beam</span><wbr><span>Light</span><wbr><span><span>Switch</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="1749824560%2FFunctions%2F776984860"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":tasSdk:vehicle-sdk:Vehicle:dokkaHtmlPartial/testRelease"><div class="symbol monospace"><div class="block"><div class="block"><span class="token annotation builtin">@</span><a href="https://developer.android.com/reference/kotlin/androidx/annotation/RequiresPermission.html"><span class="token annotation builtin">RequiresPermission</span></a></div></div><span class="token keyword">abstract </span><span class="token keyword"></span><span class="token keyword">fun </span><a href="get-low-beam-light-switch-"><span class="token function">getLowBeamLightSwitch</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">onComplete<span class="token operator">: </span><span class="token punctuation">(</span><span class="token keyword"></span><a href="../../ai.umos.connect.vehicle.constant.control/-light-switch/index-">LightSwitch</a><span class="token operator">?</span><span class="token punctuation">)</span><span class="token operator"> -&gt; </span><span class="token keyword"></span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html">Unit</a><span class="token punctuation">, </span></span><span class="parameter ">onFailed<span class="token operator">: </span><span class="token punctuation">(</span><span class="token keyword"></span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-exception/index.html">Exception</a><span class="token punctuation">)</span><span class="token operator"> -&gt; </span><span class="token keyword"></span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html">Unit</a></span></span><span class="token punctuation">)</span></div><div class="brief "><p class="paragraph">Gets current low beam light switch. The method is protected by the signature permission: umos.car.permission.CAR_CONNECT_VENDOR_CONTROL.</p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="-309900615%2FFunctions%2F776984860" anchor-label="getRearFogLightSwitch" id="-309900615%2FFunctions%2F776984860" data-filterable-set=":tasSdk:vehicle-sdk:Vehicle:dokkaHtmlPartial/testRelease"></a>
+          <div class="table-row" data-filterable-current=":tasSdk:vehicle-sdk:Vehicle:dokkaHtmlPartial/testRelease" data-filterable-set=":tasSdk:vehicle-sdk:Vehicle:dokkaHtmlPartial/testRelease">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="get-rear-fog-light-switch-"><span>get</span><wbr><span>Rear</span><wbr><span>Fog</span><wbr><span>Light</span><wbr><span><span>Switch</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-309900615%2FFunctions%2F776984860"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":tasSdk:vehicle-sdk:Vehicle:dokkaHtmlPartial/testRelease"><div class="symbol monospace"><div class="block"><div class="block"><span class="token annotation builtin">@</span><a href="https://developer.android.com/reference/kotlin/androidx/annotation/RequiresPermission.html"><span class="token annotation builtin">RequiresPermission</span></a></div></div><span class="token keyword">abstract </span><span class="token keyword"></span><span class="token keyword">fun </span><a href="get-rear-fog-light-switch-"><span class="token function">getRearFogLightSwitch</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">onComplete<span class="token operator">: </span><span class="token punctuation">(</span><span class="token keyword"></span><a href="../../ai.umos.connect.vehicle.constant.control/-light-switch/index-">LightSwitch</a><span class="token operator">?</span><span class="token punctuation">)</span><span class="token operator"> -&gt; </span><span class="token keyword"></span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html">Unit</a><span class="token punctuation">, </span></span><span class="parameter ">onFailed<span class="token operator">: </span><span class="token punctuation">(</span><span class="token keyword"></span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-exception/index.html">Exception</a><span class="token punctuation">)</span><span class="token operator"> -&gt; </span><span class="token keyword"></span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html">Unit</a></span></span><span class="token punctuation">)</span></div><div class="brief "><p class="paragraph">Gets current tail rear fog switch. The method is protected by the signature permission: umos.car.permission.CONTROL_CAR_EXTERIOR_LIGHTS.</p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="-128292737%2FFunctions%2F776984860" anchor-label="getTailLampLightSwitch" id="-128292737%2FFunctions%2F776984860" data-filterable-set=":tasSdk:vehicle-sdk:Vehicle:dokkaHtmlPartial/testRelease"></a>
+          <div class="table-row" data-filterable-current=":tasSdk:vehicle-sdk:Vehicle:dokkaHtmlPartial/testRelease" data-filterable-set=":tasSdk:vehicle-sdk:Vehicle:dokkaHtmlPartial/testRelease">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="get-tail-lamp-light-switch-"><span>get</span><wbr><span>Tail</span><wbr><span>Lamp</span><wbr><span>Light</span><wbr><span><span>Switch</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-128292737%2FFunctions%2F776984860"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":tasSdk:vehicle-sdk:Vehicle:dokkaHtmlPartial/testRelease"><div class="symbol monospace"><div class="block"><div class="block"><span class="token annotation builtin">@</span><a href="https://developer.android.com/reference/kotlin/androidx/annotation/RequiresPermission.html"><span class="token annotation builtin">RequiresPermission</span></a></div></div><span class="token keyword">abstract </span><span class="token keyword"></span><span class="token keyword">fun </span><a href="get-tail-lamp-light-switch-"><span class="token function">getTailLampLightSwitch</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">onComplete<span class="token operator">: </span><span class="token punctuation">(</span><span class="token keyword"></span><a href="../../ai.umos.connect.vehicle.constant.control/-light-switch/index-">LightSwitch</a><span class="token operator">?</span><span class="token punctuation">)</span><span class="token operator"> -&gt; </span><span class="token keyword"></span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html">Unit</a><span class="token punctuation">, </span></span><span class="parameter ">onFailed<span class="token operator">: </span><span class="token punctuation">(</span><span class="token keyword"></span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-exception/index.html">Exception</a><span class="token punctuation">)</span><span class="token operator"> -&gt; </span><span class="token keyword"></span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html">Unit</a></span></span><span class="token punctuation">)</span></div><div class="brief "><p class="paragraph">Gets current tail lamp light switch. The method is protected by the signature permission: umos.car.permission.CAR_CONNECT_VENDOR_CONTROL.</p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="-643078464%2FFunctions%2F776984860" anchor-label="setFrontFogLightSwitch" id="-643078464%2FFunctions%2F776984860" data-filterable-set=":tasSdk:vehicle-sdk:Vehicle:dokkaHtmlPartial/testRelease"></a>
+          <div class="table-row" data-filterable-current=":tasSdk:vehicle-sdk:Vehicle:dokkaHtmlPartial/testRelease" data-filterable-set=":tasSdk:vehicle-sdk:Vehicle:dokkaHtmlPartial/testRelease">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="set-front-fog-light-switch-"><span>set</span><wbr><span>Front</span><wbr><span>Fog</span><wbr><span>Light</span><wbr><span><span>Switch</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-643078464%2FFunctions%2F776984860"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":tasSdk:vehicle-sdk:Vehicle:dokkaHtmlPartial/testRelease"><div class="symbol monospace"><div class="block"><div class="block"><span class="token annotation builtin">@</span><a href="https://developer.android.com/reference/kotlin/androidx/annotation/RequiresPermission.html"><span class="token annotation builtin">RequiresPermission</span></a></div></div><span class="token keyword">abstract </span><span class="token keyword"></span><span class="token keyword">fun </span><a href="set-front-fog-light-switch-"><span class="token function">setFrontFogLightSwitch</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">value<span class="token operator">: </span><a href="../../ai.umos.connect.vehicle.constant.control/-light-switch/index-">LightSwitch</a><span class="token punctuation">, </span></span><span class="parameter ">onFailed<span class="token operator">: </span><span class="token punctuation">(</span><span class="token keyword"></span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-exception/index.html">Exception</a><span class="token punctuation">)</span><span class="token operator"> -&gt; </span><span class="token keyword"></span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html">Unit</a></span></span><span class="token punctuation">)</span></div><div class="brief "><p class="paragraph">Sets current front fog light switch. The method is protected by the signature permission: umos.car.permission.CONTROL_CAR_EXTERIOR_LIGHTS.</p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="-1690386852%2FFunctions%2F776984860" anchor-label="setHighBeamLightSwitch" id="-1690386852%2FFunctions%2F776984860" data-filterable-set=":tasSdk:vehicle-sdk:Vehicle:dokkaHtmlPartial/testRelease"></a>
+          <div class="table-row" data-filterable-current=":tasSdk:vehicle-sdk:Vehicle:dokkaHtmlPartial/testRelease" data-filterable-set=":tasSdk:vehicle-sdk:Vehicle:dokkaHtmlPartial/testRelease">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="set-high-beam-light-switch-"><span>set</span><wbr><span>High</span><wbr><span>Beam</span><wbr><span>Light</span><wbr><span><span>Switch</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1690386852%2FFunctions%2F776984860"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":tasSdk:vehicle-sdk:Vehicle:dokkaHtmlPartial/testRelease"><div class="symbol monospace"><div class="block"><div class="block"><span class="token annotation builtin">@</span><a href="https://developer.android.com/reference/kotlin/androidx/annotation/RequiresPermission.html"><span class="token annotation builtin">RequiresPermission</span></a></div></div><span class="token keyword">abstract </span><span class="token keyword"></span><span class="token keyword">fun </span><a href="set-high-beam-light-switch-"><span class="token function">setHighBeamLightSwitch</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">value<span class="token operator">: </span><a href="../../ai.umos.connect.vehicle.constant.control/-light-switch/index-">LightSwitch</a><span class="token punctuation">, </span></span><span class="parameter ">onFailed<span class="token operator">: </span><span class="token punctuation">(</span><span class="token keyword"></span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-exception/index.html">Exception</a><span class="token punctuation">)</span><span class="token operator"> -&gt; </span><span class="token keyword"></span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html">Unit</a></span></span><span class="token punctuation">)</span></div><div class="brief "><p class="paragraph">Sets current high beam light switch. The method is protected by the signature permission: umos.car.permission.CONTROL_CAR_EXTERIOR_LIGHTS.</p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="1283468362%2FFunctions%2F776984860" anchor-label="setLowBeamLightSwitch" id="1283468362%2FFunctions%2F776984860" data-filterable-set=":tasSdk:vehicle-sdk:Vehicle:dokkaHtmlPartial/testRelease"></a>
+          <div class="table-row" data-filterable-current=":tasSdk:vehicle-sdk:Vehicle:dokkaHtmlPartial/testRelease" data-filterable-set=":tasSdk:vehicle-sdk:Vehicle:dokkaHtmlPartial/testRelease">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="set-low-beam-light-switch-"><span>set</span><wbr><span>Low</span><wbr><span>Beam</span><wbr><span>Light</span><wbr><span><span>Switch</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="1283468362%2FFunctions%2F776984860"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":tasSdk:vehicle-sdk:Vehicle:dokkaHtmlPartial/testRelease"><div class="symbol monospace"><div class="block"><div class="block"><span class="token annotation builtin">@</span><a href="https://developer.android.com/reference/kotlin/androidx/annotation/RequiresPermission.html"><span class="token annotation builtin">RequiresPermission</span></a></div></div><span class="token keyword">abstract </span><span class="token keyword"></span><span class="token keyword">fun </span><a href="set-low-beam-light-switch-"><span class="token function">setLowBeamLightSwitch</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">value<span class="token operator">: </span><a href="../../ai.umos.connect.vehicle.constant.control/-light-switch/index-">LightSwitch</a><span class="token punctuation">, </span></span><span class="parameter ">onFailed<span class="token operator">: </span><span class="token punctuation">(</span><span class="token keyword"></span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-exception/index.html">Exception</a><span class="token punctuation">)</span><span class="token operator"> -&gt; </span><span class="token keyword"></span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html">Unit</a></span></span><span class="token punctuation">)</span></div><div class="brief "><p class="paragraph">Sets current low beam light switch. The method is protected by the signature permission: umos.car.permission.CAR_CONNECT_VENDOR_CONTROL.</p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="-1723858207%2FFunctions%2F776984860" anchor-label="setRearFogLightSwitch" id="-1723858207%2FFunctions%2F776984860" data-filterable-set=":tasSdk:vehicle-sdk:Vehicle:dokkaHtmlPartial/testRelease"></a>
+          <div class="table-row" data-filterable-current=":tasSdk:vehicle-sdk:Vehicle:dokkaHtmlPartial/testRelease" data-filterable-set=":tasSdk:vehicle-sdk:Vehicle:dokkaHtmlPartial/testRelease">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="set-rear-fog-light-switch-"><span>set</span><wbr><span>Rear</span><wbr><span>Fog</span><wbr><span>Light</span><wbr><span><span>Switch</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1723858207%2FFunctions%2F776984860"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":tasSdk:vehicle-sdk:Vehicle:dokkaHtmlPartial/testRelease"><div class="symbol monospace"><div class="block"><div class="block"><span class="token annotation builtin">@</span><a href="https://developer.android.com/reference/kotlin/androidx/annotation/RequiresPermission.html"><span class="token annotation builtin">RequiresPermission</span></a></div></div><span class="token keyword">abstract </span><span class="token keyword"></span><span class="token keyword">fun </span><a href="set-rear-fog-light-switch-"><span class="token function">setRearFogLightSwitch</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">value<span class="token operator">: </span><a href="../../ai.umos.connect.vehicle.constant.control/-light-switch/index-">LightSwitch</a><span class="token punctuation">, </span></span><span class="parameter ">onFailed<span class="token operator">: </span><span class="token punctuation">(</span><span class="token keyword"></span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-exception/index.html">Exception</a><span class="token punctuation">)</span><span class="token operator"> -&gt; </span><span class="token keyword"></span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html">Unit</a></span></span><span class="token punctuation">)</span></div><div class="brief "><p class="paragraph">Sets current rear fog light switch. The method is protected by the signature permission: umos.car.permission.CONTROL_CAR_EXTERIOR_LIGHTS.</p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="-1454441613%2FFunctions%2F776984860" anchor-label="setTailLampLightSwitch" id="-1454441613%2FFunctions%2F776984860" data-filterable-set=":tasSdk:vehicle-sdk:Vehicle:dokkaHtmlPartial/testRelease"></a>
+          <div class="table-row" data-filterable-current=":tasSdk:vehicle-sdk:Vehicle:dokkaHtmlPartial/testRelease" data-filterable-set=":tasSdk:vehicle-sdk:Vehicle:dokkaHtmlPartial/testRelease">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="set-tail-lamp-light-switch-"><span>set</span><wbr><span>Tail</span><wbr><span>Lamp</span><wbr><span>Light</span><wbr><span><span>Switch</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1454441613%2FFunctions%2F776984860"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":tasSdk:vehicle-sdk:Vehicle:dokkaHtmlPartial/testRelease"><div class="symbol monospace"><div class="block"><div class="block"><span class="token annotation builtin">@</span><a href="https://developer.android.com/reference/kotlin/androidx/annotation/RequiresPermission.html"><span class="token annotation builtin">RequiresPermission</span></a></div></div><span class="token keyword">abstract </span><span class="token keyword"></span><span class="token keyword">fun </span><a href="set-tail-lamp-light-switch-"><span class="token function">setTailLampLightSwitch</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">value<span class="token operator">: </span><a href="../../ai.umos.connect.vehicle.constant.control/-light-switch/index-">LightSwitch</a><span class="token punctuation">, </span></span><span class="parameter ">onFailed<span class="token operator">: </span><span class="token punctuation">(</span><span class="token keyword"></span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-exception/index.html">Exception</a><span class="token punctuation">)</span><span class="token operator"> -&gt; </span><span class="token keyword"></span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html">Unit</a></span></span><span class="token punctuation">)</span></div><div class="brief "><p class="paragraph">Sets current tail lamp light switch. The method is protected by the signature permission: umos.car.permission.CAR_CONNECT_VENDOR_CONTROL.</p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>

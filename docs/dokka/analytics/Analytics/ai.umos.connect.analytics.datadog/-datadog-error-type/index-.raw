@@ -1,0 +1,188 @@
+
+  
+  <div class="cover ">
+    
+    <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":tasSdk:analytics:Analytics:dokkaHtmlPartial/testRelease"><div class="symbol monospace"><span class="token keyword">enum </span><a href="index-">DatadogErrorType</a> : <a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-enum/index.html">Enum</a><span class="token operator">&lt;</span><span class="token keyword"></span><a href="index-">DatadogErrorType</a><span class="token operator">&gt; </span></div><p class="paragraph">Datadog error type enum class for error event.</p></div></div>
+  </div>
+  <div class="tabbedcontent">
+    <div class="tabs-section" tabs-section="tabs-section"><button class="section-tab" data-active="" data-togglable="CONSTRUCTOR,TYPE,PROPERTY,FUNCTION">Members</button><button class="section-tab" data-togglable="ENTRY">Entries</button></div>
+    <div class="tabs-section-body">
+      <div data-togglable="ENTRY">
+        <h2 class="">Entries</h2>
+        <div class="table"><a data-name="645856057%2FClasslikes%2F73131637" anchor-label="NETWORK" id="645856057%2FClasslikes%2F73131637" data-filterable-set=":tasSdk:analytics:Analytics:dokkaHtmlPartial/testRelease"></a>
+          <div class="table-row" data-togglable="ENTRY" data-filterable-current=":tasSdk:analytics:Analytics:dokkaHtmlPartial/testRelease" data-filterable-set=":tasSdk:analytics:Analytics:dokkaHtmlPartial/testRelease">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="-n-e-t-w-o-r-k/index-">NETWORK</a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="645856057%2FClasslikes%2F73131637"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":tasSdk:analytics:Analytics:dokkaHtmlPartial/testRelease"><div class="symbol monospace"><div class="block"><a href="-n-e-t-w-o-r-k/index-">NETWORK</a></div></div><div class="brief "><p class="paragraph">Error originated in the Network layer.</p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="1301384568%2FClasslikes%2F73131637" anchor-label="SOURCE" id="1301384568%2FClasslikes%2F73131637" data-filterable-set=":tasSdk:analytics:Analytics:dokkaHtmlPartial/testRelease"></a>
+          <div class="table-row" data-togglable="ENTRY" data-filterable-current=":tasSdk:analytics:Analytics:dokkaHtmlPartial/testRelease" data-filterable-set=":tasSdk:analytics:Analytics:dokkaHtmlPartial/testRelease">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="-s-o-u-r-c-e/index-">SOURCE</a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="1301384568%2FClasslikes%2F73131637"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":tasSdk:analytics:Analytics:dokkaHtmlPartial/testRelease"><div class="symbol monospace"><div class="block"><a href="-s-o-u-r-c-e/index-">SOURCE</a></div></div><div class="brief "><p class="paragraph">Error originated in the source code (usually a crash).</p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="-861950814%2FClasslikes%2F73131637" anchor-label="CONSOLE" id="-861950814%2FClasslikes%2F73131637" data-filterable-set=":tasSdk:analytics:Analytics:dokkaHtmlPartial/testRelease"></a>
+          <div class="table-row" data-togglable="ENTRY" data-filterable-current=":tasSdk:analytics:Analytics:dokkaHtmlPartial/testRelease" data-filterable-set=":tasSdk:analytics:Analytics:dokkaHtmlPartial/testRelease">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="-c-o-n-s-o-l-e/index-">CONSOLE</a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-861950814%2FClasslikes%2F73131637"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":tasSdk:analytics:Analytics:dokkaHtmlPartial/testRelease"><div class="symbol monospace"><div class="block"><a href="-c-o-n-s-o-l-e/index-">CONSOLE</a></div></div><div class="brief "><p class="paragraph">Error originated in a console (e.g.: in a webview).</p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="-482892755%2FClasslikes%2F73131637" anchor-label="LOGGER" id="-482892755%2FClasslikes%2F73131637" data-filterable-set=":tasSdk:analytics:Analytics:dokkaHtmlPartial/testRelease"></a>
+          <div class="table-row" data-togglable="ENTRY" data-filterable-current=":tasSdk:analytics:Analytics:dokkaHtmlPartial/testRelease" data-filterable-set=":tasSdk:analytics:Analytics:dokkaHtmlPartial/testRelease">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="-l-o-g-g-e-r/index-">LOGGER</a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-482892755%2FClasslikes%2F73131637"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":tasSdk:analytics:Analytics:dokkaHtmlPartial/testRelease"><div class="symbol monospace"><div class="block"><a href="-l-o-g-g-e-r/index-">LOGGER</a></div></div><div class="brief "><p class="paragraph">Error extracted from a logged error.</p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="-1888365680%2FClasslikes%2F73131637" anchor-label="AGENT" id="-1888365680%2FClasslikes%2F73131637" data-filterable-set=":tasSdk:analytics:Analytics:dokkaHtmlPartial/testRelease"></a>
+          <div class="table-row" data-togglable="ENTRY" data-filterable-current=":tasSdk:analytics:Analytics:dokkaHtmlPartial/testRelease" data-filterable-set=":tasSdk:analytics:Analytics:dokkaHtmlPartial/testRelease">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="-a-g-e-n-t/index-">AGENT</a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1888365680%2FClasslikes%2F73131637"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":tasSdk:analytics:Analytics:dokkaHtmlPartial/testRelease"><div class="symbol monospace"><div class="block"><a href="-a-g-e-n-t/index-">AGENT</a></div></div><div class="brief "><p class="paragraph">Error originated in an Agent.</p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="148448196%2FClasslikes%2F73131637" anchor-label="WEBVIEW" id="148448196%2FClasslikes%2F73131637" data-filterable-set=":tasSdk:analytics:Analytics:dokkaHtmlPartial/testRelease"></a>
+          <div class="table-row" data-togglable="ENTRY" data-filterable-current=":tasSdk:analytics:Analytics:dokkaHtmlPartial/testRelease" data-filterable-set=":tasSdk:analytics:Analytics:dokkaHtmlPartial/testRelease">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="-w-e-b-v-i-e-w/index-">WEBVIEW</a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="148448196%2FClasslikes%2F73131637"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":tasSdk:analytics:Analytics:dokkaHtmlPartial/testRelease"><div class="symbol monospace"><div class="block"><a href="-w-e-b-v-i-e-w/index-">WEBVIEW</a></div></div><div class="brief "><p class="paragraph">Error originated in a WebView.</p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div data-togglable="PROPERTY">
+        <h2 class="">Properties</h2>
+        <div class="table"><a data-name="-372974862%2FProperties%2F73131637" anchor-label="name" id="-372974862%2FProperties%2F73131637" data-filterable-set=":tasSdk:analytics:Analytics:dokkaHtmlPartial/testRelease"></a>
+          <div class="table-row" data-filterable-current=":tasSdk:analytics:Analytics:dokkaHtmlPartial/testRelease" data-filterable-set=":tasSdk:analytics:Analytics:dokkaHtmlPartial/testRelease">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="../-log-type/-v/index-#-372974862%2FProperties%2F73131637"><span><span>name</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-372974862%2FProperties%2F73131637"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":tasSdk:analytics:Analytics:dokkaHtmlPartial/testRelease"><div class="symbol monospace"><span class="token keyword"></span><span class="token keyword">val </span><a href="../-log-type/-v/index-#-372974862%2FProperties%2F73131637">name</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html">String</a></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="-739389684%2FProperties%2F73131637" anchor-label="ordinal" id="-739389684%2FProperties%2F73131637" data-filterable-set=":tasSdk:analytics:Analytics:dokkaHtmlPartial/testRelease"></a>
+          <div class="table-row" data-filterable-current=":tasSdk:analytics:Analytics:dokkaHtmlPartial/testRelease" data-filterable-set=":tasSdk:analytics:Analytics:dokkaHtmlPartial/testRelease">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="../-log-type/-v/index-#-739389684%2FProperties%2F73131637"><span><span>ordinal</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-739389684%2FProperties%2F73131637"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":tasSdk:analytics:Analytics:dokkaHtmlPartial/testRelease"><div class="symbol monospace"><span class="token keyword"></span><span class="token keyword">val </span><a href="../-log-type/-v/index-#-739389684%2FProperties%2F73131637">ordinal</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html">Int</a></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div data-togglable="FUNCTION">
+        <h2 class="">Functions</h2>
+        <div class="table"><a data-name="1589521435%2FFunctions%2F73131637" anchor-label="datadogType" id="1589521435%2FFunctions%2F73131637" data-filterable-set=":tasSdk:analytics:Analytics:dokkaHtmlPartial/testRelease"></a>
+          <div class="table-row" data-filterable-current=":tasSdk:analytics:Analytics:dokkaHtmlPartial/testRelease" data-filterable-set=":tasSdk:analytics:Analytics:dokkaHtmlPartial/testRelease">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="datadog-type-"><span>datadog</span><wbr><span><span>Type</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="1589521435%2FFunctions%2F73131637"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":tasSdk:analytics:Analytics:dokkaHtmlPartial/testRelease"><div class="symbol monospace"><span class="token keyword">abstract </span><span class="token keyword"></span><span class="token keyword">fun </span><a href="datadog-type-"><span class="token function">datadogType</span></a><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token operator">: </span><span data-unresolved-link="com.datadog.android.rum/RumErrorSource///PointingToDeclaration/">RumErrorSource</span></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="-2145521083%2FFunctions%2F73131637" anchor-label="valueOf" id="-2145521083%2FFunctions%2F73131637" data-filterable-set=":tasSdk:analytics:Analytics:dokkaHtmlPartial/testRelease"></a>
+          <div class="table-row" data-filterable-current=":tasSdk:analytics:Analytics:dokkaHtmlPartial/testRelease" data-filterable-set=":tasSdk:analytics:Analytics:dokkaHtmlPartial/testRelease">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="value-of-"><span>value</span><wbr><span><span>Of</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-2145521083%2FFunctions%2F73131637"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":tasSdk:analytics:Analytics:dokkaHtmlPartial/testRelease"><div class="symbol monospace"><span class="token keyword"></span><span class="token keyword">fun </span><a href="value-of-"><span class="token function">valueOf</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">value<span class="token operator">: </span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html">String</a></span></span><span class="token punctuation">)</span><span class="token operator">: </span><a href="index-">DatadogErrorType</a></div><div class="brief "><p class="paragraph">Returns the enum constant of this type with the specified name. The string must match exactly an identifier used to declare an enum constant in this type. (Extraneous whitespace characters are not permitted.)</p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="1373957137%2FFunctions%2F73131637" anchor-label="values" id="1373957137%2FFunctions%2F73131637" data-filterable-set=":tasSdk:analytics:Analytics:dokkaHtmlPartial/testRelease"></a>
+          <div class="table-row" data-filterable-current=":tasSdk:analytics:Analytics:dokkaHtmlPartial/testRelease" data-filterable-set=":tasSdk:analytics:Analytics:dokkaHtmlPartial/testRelease">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="values-"><span><span>values</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="1373957137%2FFunctions%2F73131637"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":tasSdk:analytics:Analytics:dokkaHtmlPartial/testRelease"><div class="symbol monospace"><span class="token keyword"></span><span class="token keyword">fun </span><a href="values-"><span class="token function">values</span></a><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token operator">: </span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-array/index.html">Array</a><span class="token operator">&lt;</span><span class="token keyword"></span><a href="index-">DatadogErrorType</a><span class="token operator">&gt;</span></div><div class="brief "><p class="paragraph">Returns an array containing the constants of this enum type, in the order they're declared.</p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>

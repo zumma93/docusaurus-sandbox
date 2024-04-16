@@ -1,0 +1,65 @@
+version: 2.1
+orbs:
+  node: circleci/node@5
+jobs:
+  build-node:
+    # Build node project
+    executor: node/default
+    steps:
+      - checkout
+      - run:
+          name: Checkout deploy branch
+          command: git checkout -B deploy
+      - run:
+          name: Make branch on remote
+          command: git push origin +deploy    
+      - node/install-packages:
+          cache-path: ~/project/node_modules
+          override-ci-command: npm install
+      - run:
+          name: Build doc
+          command: npm run build
+      - run:
+          name: Delete source
+          command: rm -rf docs
+      - run:
+          name: Change folder name
+          command: mv build docs
+      - run:
+          name: Git config email
+          command: git config --global user.email "minemine7593@gmail.com"
+      - run:
+          name: Git config name
+          command: git config --global user.name "zumma93"
+      - run:
+          name: Add change on stage
+          command: git add -A
+      - run:
+          name: Make deploy commit
+          command: git commit -m "Test deploy"  
+      - run:
+          name: Push deploy branch
+          command: git push --set-upstream origin deploy --force
+      - store_artifacts:
+          path: ~/artifacts
+          destination: node-build
+  deploy:
+    # This is an example deploy job, not actually used by the workflow
+    docker:
+      - image: cimg/base:stable
+    steps:
+      # Replace this with steps to deploy to users
+      - run:
+          name: deploy
+          command: '#e.g. ./deploy.sh'
+workflows:
+  build:
+    jobs:
+      - build-node:
+          filters:
+            branches:
+              only:
+                - main
+    # - deploy:
+    #     requires:
+    #       - build-node
