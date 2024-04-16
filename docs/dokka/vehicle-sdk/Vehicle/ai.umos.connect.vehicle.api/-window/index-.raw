@@ -1,0 +1,75 @@
+
+  
+  <div class="cover ">
+    
+    <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":tasSdk:vehicle-sdk:Vehicle:dokkaHtmlPartial/testRelease"><div class="symbol monospace"><span class="token keyword">interface </span><a href="index-">Window</a></div></div></div>
+  </div>
+  <div class="tabbedcontent">
+    <div class="tabs-section" tabs-section="tabs-section"><button class="section-tab" data-active="" data-togglable="CONSTRUCTOR,TYPE,PROPERTY,FUNCTION">Members</button></div>
+    <div class="tabs-section-body">
+      <div data-togglable="FUNCTION">
+        <h2 class="">Functions</h2>
+        <div class="table"><a data-name="598257572%2FFunctions%2F776984860" anchor-label="getCurrentWindowLockState" id="598257572%2FFunctions%2F776984860" data-filterable-set=":tasSdk:vehicle-sdk:Vehicle:dokkaHtmlPartial/testRelease"></a>
+          <div class="table-row" data-filterable-current=":tasSdk:vehicle-sdk:Vehicle:dokkaHtmlPartial/testRelease" data-filterable-set=":tasSdk:vehicle-sdk:Vehicle:dokkaHtmlPartial/testRelease">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="get-current-window-lock-state-"><span>get</span><wbr><span>Current</span><wbr><span>Window</span><wbr><span>Lock</span><wbr><span><span>State</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="598257572%2FFunctions%2F776984860"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":tasSdk:vehicle-sdk:Vehicle:dokkaHtmlPartial/testRelease"><div class="symbol monospace"><div class="block"><div class="block"><span class="token annotation builtin">@</span><a href="https://developer.android.com/reference/kotlin/androidx/annotation/RequiresPermission.html"><span class="token annotation builtin">RequiresPermission</span></a></div></div><span class="token keyword">abstract </span><span class="token keyword"></span><span class="token keyword">fun </span><a href="get-current-window-lock-state-"><span class="token function">getCurrentWindowLockState</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">area<span class="token operator">: </span><a href="../../ai.umos.connect.vehicle.api.model.area/-window-area/index-">WindowArea</a><span class="token punctuation">, </span></span><span class="parameter ">onComplete<span class="token operator">: </span><span class="token punctuation">(</span><span class="token keyword"></span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-boolean/index.html">Boolean</a><span class="token operator">?</span><span class="token punctuation">)</span><span class="token operator"> -&gt; </span><span class="token keyword"></span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html">Unit</a><span class="token punctuation">, </span></span><span class="parameter ">onFailed<span class="token operator">: </span><span class="token punctuation">(</span><span class="token keyword"></span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-exception/index.html">Exception</a><span class="token punctuation">)</span><span class="token operator"> -&gt; </span><span class="token keyword"></span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html">Unit</a></span></span><span class="token punctuation">)</span></div><div class="brief "><p class="paragraph">Gets current window lock state. The method is protected by the signature permission: umos.car.permission.CONTROL_CAR_WINDOWS.</p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="131599286%2FFunctions%2F776984860" anchor-label="getCurrentWindowPosition" id="131599286%2FFunctions%2F776984860" data-filterable-set=":tasSdk:vehicle-sdk:Vehicle:dokkaHtmlPartial/testRelease"></a>
+          <div class="table-row" data-filterable-current=":tasSdk:vehicle-sdk:Vehicle:dokkaHtmlPartial/testRelease" data-filterable-set=":tasSdk:vehicle-sdk:Vehicle:dokkaHtmlPartial/testRelease">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="get-current-window-position-"><span>get</span><wbr><span>Current</span><wbr><span>Window</span><wbr><span><span>Position</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="131599286%2FFunctions%2F776984860"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":tasSdk:vehicle-sdk:Vehicle:dokkaHtmlPartial/testRelease"><div class="symbol monospace"><div class="block"><div class="block"><span class="token annotation builtin">@</span><a href="https://developer.android.com/reference/kotlin/androidx/annotation/RequiresPermission.html"><span class="token annotation builtin">RequiresPermission</span></a></div></div><span class="token keyword">abstract </span><span class="token keyword"></span><span class="token keyword">fun </span><a href="get-current-window-position-"><span class="token function">getCurrentWindowPosition</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">area<span class="token operator">: </span><a href="../../ai.umos.connect.vehicle.api.model.area/-window-area/index-">WindowArea</a><span class="token punctuation">, </span></span><span class="parameter ">onComplete<span class="token operator">: </span><span class="token punctuation">(</span><span class="token keyword"></span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html">Int</a><span class="token operator">?</span><span class="token punctuation">)</span><span class="token operator"> -&gt; </span><span class="token keyword"></span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html">Unit</a><span class="token punctuation">, </span></span><span class="parameter ">onFailed<span class="token operator">: </span><span class="token punctuation">(</span><span class="token keyword"></span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-exception/index.html">Exception</a><span class="token punctuation">)</span><span class="token operator"> -&gt; </span><span class="token keyword"></span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html">Unit</a></span></span><span class="token punctuation">)</span></div><div class="brief "><p class="paragraph">Gets current window position. The method is protected by the signature permission: umos.car.permission.CONTROL_CAR_WINDOWS.</p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="1779659844%2FFunctions%2F776984860" anchor-label="setWindowLock" id="1779659844%2FFunctions%2F776984860" data-filterable-set=":tasSdk:vehicle-sdk:Vehicle:dokkaHtmlPartial/testRelease"></a>
+          <div class="table-row" data-filterable-current=":tasSdk:vehicle-sdk:Vehicle:dokkaHtmlPartial/testRelease" data-filterable-set=":tasSdk:vehicle-sdk:Vehicle:dokkaHtmlPartial/testRelease">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="set-window-lock-"><span>set</span><wbr><span>Window</span><wbr><span><span>Lock</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="1779659844%2FFunctions%2F776984860"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":tasSdk:vehicle-sdk:Vehicle:dokkaHtmlPartial/testRelease"><div class="symbol monospace"><div class="block"><div class="block"><span class="token annotation builtin">@</span><a href="https://developer.android.com/reference/kotlin/androidx/annotation/RequiresPermission.html"><span class="token annotation builtin">RequiresPermission</span></a></div></div><span class="token keyword">abstract </span><span class="token keyword"></span><span class="token keyword">fun </span><a href="set-window-lock-"><span class="token function">setWindowLock</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">area<span class="token operator">: </span><a href="../../ai.umos.connect.vehicle.api.model.area/-window-area/index-">WindowArea</a><span class="token punctuation">, </span></span><span class="parameter ">value<span class="token operator">: </span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-boolean/index.html">Boolean</a><span class="token punctuation">, </span></span><span class="parameter ">onFailed<span class="token operator">: </span><span class="token punctuation">(</span><span class="token keyword"></span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-exception/index.html">Exception</a><span class="token punctuation">)</span><span class="token operator"> -&gt; </span><span class="token keyword"></span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html">Unit</a></span></span><span class="token punctuation">)</span></div><div class="brief "><p class="paragraph">Sets current window lock state. The method is protected by the signature permission: umos.car.permission.CONTROL_CAR_WINDOWS.</p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="199766431%2FFunctions%2F776984860" anchor-label="setWindowPosition" id="199766431%2FFunctions%2F776984860" data-filterable-set=":tasSdk:vehicle-sdk:Vehicle:dokkaHtmlPartial/testRelease"></a>
+          <div class="table-row" data-filterable-current=":tasSdk:vehicle-sdk:Vehicle:dokkaHtmlPartial/testRelease" data-filterable-set=":tasSdk:vehicle-sdk:Vehicle:dokkaHtmlPartial/testRelease">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="set-window-position-"><span>set</span><wbr><span>Window</span><wbr><span><span>Position</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="199766431%2FFunctions%2F776984860"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":tasSdk:vehicle-sdk:Vehicle:dokkaHtmlPartial/testRelease"><div class="symbol monospace"><div class="block"><div class="block"><span class="token annotation builtin">@</span><a href="https://developer.android.com/reference/kotlin/androidx/annotation/RequiresPermission.html"><span class="token annotation builtin">RequiresPermission</span></a></div></div><span class="token keyword">abstract </span><span class="token keyword"></span><span class="token keyword">fun </span><a href="set-window-position-"><span class="token function">setWindowPosition</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">area<span class="token operator">: </span><a href="../../ai.umos.connect.vehicle.api.model.area/-window-area/index-">WindowArea</a><span class="token punctuation">, </span></span><span class="parameter ">value<span class="token operator">: </span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html">Int</a><span class="token punctuation">, </span></span><span class="parameter ">onFailed<span class="token operator">: </span><span class="token punctuation">(</span><span class="token keyword"></span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-exception/index.html">Exception</a><span class="token punctuation">)</span><span class="token operator"> -&gt; </span><span class="token keyword"></span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html">Unit</a></span></span><span class="token punctuation">)</span></div><div class="brief "><p class="paragraph">Sets current window position state. The method is protected by the signature permission: umos.car.permission.CONTROL_CAR_WINDOWS.</p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>

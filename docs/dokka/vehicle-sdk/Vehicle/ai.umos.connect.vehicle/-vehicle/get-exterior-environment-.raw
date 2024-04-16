@@ -1,0 +1,6 @@
+
+  
+  <div class="cover ">
+    
+  </div>
+  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":tasSdk:vehicle-sdk:Vehicle:dokkaHtmlPartial/testRelease"><div class="symbol monospace"><span class="token keyword"></span><span class="token keyword">fun </span><a href="get-exterior-environment-"><span class="token function">getExteriorEnvironment</span></a><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token operator">: </span><a href="../../ai.umos.connect.vehicle.api/-exterior-environment/index-">ExteriorEnvironment</a></div><p class="paragraph">Gets the object of ExteriorEnvironment to use ExteriorEnvironment APIs.</p></div></div>

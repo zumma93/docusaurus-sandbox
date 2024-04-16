@@ -1,0 +1,79 @@
+
+  
+  <div class="cover ">
+    
+    <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":tasSdk:navi-provider-sdk:NaviProvider:dokkaHtmlPartial/testRelease"><div class="symbol monospace"><span class="token keyword">data </span><span class="token keyword">class </span><a href="index-">TrafficStatus</a><span class="token punctuation">(</span><span class="parameters "><span class="parameter "><span class="token keyword">val </span>summary<span class="token operator">: </span><a href="../-traffic-congestion-summary/index-">TrafficCongestionSummary</a><span class="token punctuation">, </span></span><span class="parameter "><span class="token keyword">val </span>congestionItemList<span class="token operator">: </span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-list/index.html">List</a><span class="token operator">&lt;</span><span class="token keyword"></span><a href="../-traffic-congestion-info/index-">TrafficCongestionInfo</a><span class="token operator">&gt;</span><span class="token punctuation">, </span></span><span class="parameter "><span class="token keyword">val </span>trafficEventList<span class="token operator">: </span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-list/index.html">List</a><span class="token operator">&lt;</span><span class="token keyword"></span><a href="../-traffic-event-info/index-">TrafficEventInfo</a><span class="token operator">&gt;</span></span></span><span class="token punctuation">)</span></div><p class="paragraph">TrafficStatus</p></div></div>
+  </div>
+  <div class="tabbedcontent">
+    <div class="tabs-section" tabs-section="tabs-section"><button class="section-tab" data-active="" data-togglable="CONSTRUCTOR,TYPE,PROPERTY,FUNCTION">Members</button></div>
+    <div class="tabs-section-body">
+      <div data-togglable="CONSTRUCTOR">
+        <h2 class="">Constructors</h2>
+        <div class="table"><a data-name="1027650104%2FConstructors%2F-1641032607" anchor-label="TrafficStatus" id="1027650104%2FConstructors%2F-1641032607" data-filterable-set=":tasSdk:navi-provider-sdk:NaviProvider:dokkaHtmlPartial/testRelease"></a>
+          <div class="table-row" data-togglable="CONSTRUCTOR" data-filterable-current=":tasSdk:navi-provider-sdk:NaviProvider:dokkaHtmlPartial/testRelease" data-filterable-set=":tasSdk:navi-provider-sdk:NaviProvider:dokkaHtmlPartial/testRelease">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="-traffic-status-"><span>Traffic</span><wbr><span><span>Status</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="1027650104%2FConstructors%2F-1641032607"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":tasSdk:navi-provider-sdk:NaviProvider:dokkaHtmlPartial/testRelease"><div class="symbol monospace"><span class="token keyword">constructor</span><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">summary<span class="token operator">: </span><a href="../-traffic-congestion-summary/index-">TrafficCongestionSummary</a><span class="token punctuation">, </span></span><span class="parameter ">congestionItemList<span class="token operator">: </span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-list/index.html">List</a><span class="token operator">&lt;</span><span class="token keyword"></span><a href="../-traffic-congestion-info/index-">TrafficCongestionInfo</a><span class="token operator">&gt;</span><span class="token punctuation">, </span></span><span class="parameter ">trafficEventList<span class="token operator">: </span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-list/index.html">List</a><span class="token operator">&lt;</span><span class="token keyword"></span><a href="../-traffic-event-info/index-">TrafficEventInfo</a><span class="token operator">&gt;</span></span></span><span class="token punctuation">)</span></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div data-togglable="PROPERTY">
+        <h2 class="">Properties</h2>
+        <div class="table"><a data-name="2122732536%2FProperties%2F-1641032607" anchor-label="congestionItemList" id="2122732536%2FProperties%2F-1641032607" data-filterable-set=":tasSdk:navi-provider-sdk:NaviProvider:dokkaHtmlPartial/testRelease"></a>
+          <div class="table-row" data-filterable-current=":tasSdk:navi-provider-sdk:NaviProvider:dokkaHtmlPartial/testRelease" data-filterable-set=":tasSdk:navi-provider-sdk:NaviProvider:dokkaHtmlPartial/testRelease">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="congestion-item-list-"><span>congestion</span><wbr><span>Item</span><wbr><span><span>List</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="2122732536%2FProperties%2F-1641032607"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":tasSdk:navi-provider-sdk:NaviProvider:dokkaHtmlPartial/testRelease"><div class="symbol monospace"><span class="token keyword"></span><span class="token keyword">val </span><a href="congestion-item-list-">congestionItemList</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-list/index.html">List</a><span class="token operator">&lt;</span><span class="token keyword"></span><a href="../-traffic-congestion-info/index-">TrafficCongestionInfo</a><span class="token operator">&gt;</span></div><div class="brief "><p class="paragraph">교통 정체 정보 List</p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="-992440348%2FProperties%2F-1641032607" anchor-label="summary" id="-992440348%2FProperties%2F-1641032607" data-filterable-set=":tasSdk:navi-provider-sdk:NaviProvider:dokkaHtmlPartial/testRelease"></a>
+          <div class="table-row" data-filterable-current=":tasSdk:navi-provider-sdk:NaviProvider:dokkaHtmlPartial/testRelease" data-filterable-set=":tasSdk:navi-provider-sdk:NaviProvider:dokkaHtmlPartial/testRelease">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="summary-"><span><span>summary</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-992440348%2FProperties%2F-1641032607"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":tasSdk:navi-provider-sdk:NaviProvider:dokkaHtmlPartial/testRelease"><div class="symbol monospace"><span class="token keyword"></span><span class="token keyword">val </span><a href="summary-">summary</a><span class="token operator">: </span><a href="../-traffic-congestion-summary/index-">TrafficCongestionSummary</a></div><div class="brief "><p class="paragraph">정체 정보 Summary</p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="1364995285%2FProperties%2F-1641032607" anchor-label="trafficEventList" id="1364995285%2FProperties%2F-1641032607" data-filterable-set=":tasSdk:navi-provider-sdk:NaviProvider:dokkaHtmlPartial/testRelease"></a>
+          <div class="table-row" data-filterable-current=":tasSdk:navi-provider-sdk:NaviProvider:dokkaHtmlPartial/testRelease" data-filterable-set=":tasSdk:navi-provider-sdk:NaviProvider:dokkaHtmlPartial/testRelease">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="traffic-event-list-"><span>traffic</span><wbr><span>Event</span><wbr><span><span>List</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="1364995285%2FProperties%2F-1641032607"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":tasSdk:navi-provider-sdk:NaviProvider:dokkaHtmlPartial/testRelease"><div class="symbol monospace"><span class="token keyword"></span><span class="token keyword">val </span><a href="traffic-event-list-">trafficEventList</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-list/index.html">List</a><span class="token operator">&lt;</span><span class="token keyword"></span><a href="../-traffic-event-info/index-">TrafficEventInfo</a><span class="token operator">&gt;</span></div><div class="brief "><p class="paragraph">교통 정체 유고 정보 List</p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>

@@ -1,0 +1,194 @@
+
+  
+  <div class="cover ">
+    
+  </div>
+  <div class="tabbedcontent">
+    <div class="tabs-section" tabs-section="tabs-section"><button class="section-tab" data-active="" data-togglable="TYPE">Types</button></div>
+    <div class="tabs-section-body">
+      <div data-togglable="TYPE">
+        <h2 class="">Types</h2>
+        <div class="table"><a data-name="-1193849879%2FClasslikes%2F-1641032607" anchor-label="BookmarkType" id="-1193849879%2FClasslikes%2F-1641032607" data-filterable-set=":tasSdk:navi-provider-sdk:NaviProvider:dokkaHtmlPartial/testRelease"></a>
+          <div class="table-row" data-filterable-current=":tasSdk:navi-provider-sdk:NaviProvider:dokkaHtmlPartial/testRelease" data-filterable-set=":tasSdk:navi-provider-sdk:NaviProvider:dokkaHtmlPartial/testRelease">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="-bookmark-type/index-"><span>Bookmark</span><wbr><span><span>Type</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1193849879%2FClasslikes%2F-1641032607"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":tasSdk:navi-provider-sdk:NaviProvider:dokkaHtmlPartial/testRelease"><div class="symbol monospace"><span class="token keyword">enum </span><a href="-bookmark-type/index-">BookmarkType</a> : <a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-enum/index.html">Enum</a><span class="token operator">&lt;</span><span class="token keyword"></span><a href="-bookmark-type/index-">BookmarkType</a><span class="token operator">&gt; </span></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="1637235290%2FClasslikes%2F-1641032607" anchor-label="CameraType" id="1637235290%2FClasslikes%2F-1641032607" data-filterable-set=":tasSdk:navi-provider-sdk:NaviProvider:dokkaHtmlPartial/testRelease"></a>
+          <div class="table-row" data-filterable-current=":tasSdk:navi-provider-sdk:NaviProvider:dokkaHtmlPartial/testRelease" data-filterable-set=":tasSdk:navi-provider-sdk:NaviProvider:dokkaHtmlPartial/testRelease">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="-camera-type/index-"><span>Camera</span><wbr><span><span>Type</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="1637235290%2FClasslikes%2F-1641032607"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":tasSdk:navi-provider-sdk:NaviProvider:dokkaHtmlPartial/testRelease"><div class="symbol monospace"><span class="token keyword">enum </span><a href="-camera-type/index-">CameraType</a> : <a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-enum/index.html">Enum</a><span class="token operator">&lt;</span><span class="token keyword"></span><a href="-camera-type/index-">CameraType</a><span class="token operator">&gt; </span></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="1968471482%2FClasslikes%2F-1641032607" anchor-label="NaviErrorCode" id="1968471482%2FClasslikes%2F-1641032607" data-filterable-set=":tasSdk:navi-provider-sdk:NaviProvider:dokkaHtmlPartial/testRelease"></a>
+          <div class="table-row" data-filterable-current=":tasSdk:navi-provider-sdk:NaviProvider:dokkaHtmlPartial/testRelease" data-filterable-set=":tasSdk:navi-provider-sdk:NaviProvider:dokkaHtmlPartial/testRelease">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="-navi-error-code/index-"><span>Navi</span><wbr><span>Error</span><wbr><span><span>Code</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="1968471482%2FClasslikes%2F-1641032607"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":tasSdk:navi-provider-sdk:NaviProvider:dokkaHtmlPartial/testRelease"><div class="symbol monospace"><span class="token keyword">enum </span><a href="-navi-error-code/index-">NaviErrorCode</a> : <a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-enum/index.html">Enum</a><span class="token operator">&lt;</span><span class="token keyword"></span><a href="-navi-error-code/index-">NaviErrorCode</a><span class="token operator">&gt; </span></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="-1530667728%2FClasslikes%2F-1641032607" anchor-label="NaviMode" id="-1530667728%2FClasslikes%2F-1641032607" data-filterable-set=":tasSdk:navi-provider-sdk:NaviProvider:dokkaHtmlPartial/testRelease"></a>
+          <div class="table-row" data-filterable-current=":tasSdk:navi-provider-sdk:NaviProvider:dokkaHtmlPartial/testRelease" data-filterable-set=":tasSdk:navi-provider-sdk:NaviProvider:dokkaHtmlPartial/testRelease">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="-navi-mode/index-"><span>Navi</span><wbr><span><span>Mode</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1530667728%2FClasslikes%2F-1641032607"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":tasSdk:navi-provider-sdk:NaviProvider:dokkaHtmlPartial/testRelease"><div class="symbol monospace"><span class="token keyword">enum </span><a href="-navi-mode/index-">NaviMode</a> : <a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-enum/index.html">Enum</a><span class="token operator">&lt;</span><span class="token keyword"></span><a href="-navi-mode/index-">NaviMode</a><span class="token operator">&gt; </span></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="-1506742232%2FClasslikes%2F-1641032607" anchor-label="NaviMoveType" id="-1506742232%2FClasslikes%2F-1641032607" data-filterable-set=":tasSdk:navi-provider-sdk:NaviProvider:dokkaHtmlPartial/testRelease"></a>
+          <div class="table-row" data-filterable-current=":tasSdk:navi-provider-sdk:NaviProvider:dokkaHtmlPartial/testRelease" data-filterable-set=":tasSdk:navi-provider-sdk:NaviProvider:dokkaHtmlPartial/testRelease">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="-navi-move-type/index-"><span>Navi</span><wbr><span>Move</span><wbr><span><span>Type</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1506742232%2FClasslikes%2F-1641032607"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":tasSdk:navi-provider-sdk:NaviProvider:dokkaHtmlPartial/testRelease"><div class="symbol monospace"><span class="token keyword">enum </span><a href="-navi-move-type/index-">NaviMoveType</a> : <a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-enum/index.html">Enum</a><span class="token operator">&lt;</span><span class="token keyword"></span><a href="-navi-move-type/index-">NaviMoveType</a><span class="token operator">&gt; </span></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="879605381%2FClasslikes%2F-1641032607" anchor-label="RequestOption" id="879605381%2FClasslikes%2F-1641032607" data-filterable-set=":tasSdk:navi-provider-sdk:NaviProvider:dokkaHtmlPartial/testRelease"></a>
+          <div class="table-row" data-filterable-current=":tasSdk:navi-provider-sdk:NaviProvider:dokkaHtmlPartial/testRelease" data-filterable-set=":tasSdk:navi-provider-sdk:NaviProvider:dokkaHtmlPartial/testRelease">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="-request-option/index-"><span>Request</span><wbr><span><span>Option</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="879605381%2FClasslikes%2F-1641032607"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":tasSdk:navi-provider-sdk:NaviProvider:dokkaHtmlPartial/testRelease"><div class="symbol monospace"><span class="token keyword">enum </span><a href="-request-option/index-">RequestOption</a> : <a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-enum/index.html">Enum</a><span class="token operator">&lt;</span><span class="token keyword"></span><a href="-request-option/index-">RequestOption</a><span class="token operator">&gt; </span></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="630512635%2FClasslikes%2F-1641032607" anchor-label="RouteDriving" id="630512635%2FClasslikes%2F-1641032607" data-filterable-set=":tasSdk:navi-provider-sdk:NaviProvider:dokkaHtmlPartial/testRelease"></a>
+          <div class="table-row" data-filterable-current=":tasSdk:navi-provider-sdk:NaviProvider:dokkaHtmlPartial/testRelease" data-filterable-set=":tasSdk:navi-provider-sdk:NaviProvider:dokkaHtmlPartial/testRelease">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="-route-driving/index-"><span>Route</span><wbr><span><span>Driving</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="630512635%2FClasslikes%2F-1641032607"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":tasSdk:navi-provider-sdk:NaviProvider:dokkaHtmlPartial/testRelease"><div class="symbol monospace"><span class="token keyword">enum </span><a href="-route-driving/index-">RouteDriving</a> : <a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-enum/index.html">Enum</a><span class="token operator">&lt;</span><span class="token keyword"></span><a href="-route-driving/index-">RouteDriving</a><span class="token operator">&gt; </span></div><div class="brief "><p class="paragraph">RouteDriving</p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="71503243%2FClasslikes%2F-1641032607" anchor-label="RouteOption" id="71503243%2FClasslikes%2F-1641032607" data-filterable-set=":tasSdk:navi-provider-sdk:NaviProvider:dokkaHtmlPartial/testRelease"></a>
+          <div class="table-row" data-filterable-current=":tasSdk:navi-provider-sdk:NaviProvider:dokkaHtmlPartial/testRelease" data-filterable-set=":tasSdk:navi-provider-sdk:NaviProvider:dokkaHtmlPartial/testRelease">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="-route-option/index-"><span>Route</span><wbr><span><span>Option</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="71503243%2FClasslikes%2F-1641032607"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":tasSdk:navi-provider-sdk:NaviProvider:dokkaHtmlPartial/testRelease"><div class="symbol monospace"><span class="token keyword">enum </span><a href="-route-option/index-">RouteOption</a> : <a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-enum/index.html">Enum</a><span class="token operator">&lt;</span><span class="token keyword"></span><a href="-route-option/index-">RouteOption</a><span class="token operator">&gt; </span></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="-1198476434%2FClasslikes%2F-1641032607" anchor-label="TargetType" id="-1198476434%2FClasslikes%2F-1641032607" data-filterable-set=":tasSdk:navi-provider-sdk:NaviProvider:dokkaHtmlPartial/testRelease"></a>
+          <div class="table-row" data-filterable-current=":tasSdk:navi-provider-sdk:NaviProvider:dokkaHtmlPartial/testRelease" data-filterable-set=":tasSdk:navi-provider-sdk:NaviProvider:dokkaHtmlPartial/testRelease">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="-target-type/index-"><span>Target</span><wbr><span><span>Type</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1198476434%2FClasslikes%2F-1641032607"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":tasSdk:navi-provider-sdk:NaviProvider:dokkaHtmlPartial/testRelease"><div class="symbol monospace"><span class="token keyword">enum </span><a href="-target-type/index-">TargetType</a> : <a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-enum/index.html">Enum</a><span class="token operator">&lt;</span><span class="token keyword"></span><a href="-target-type/index-">TargetType</a><span class="token operator">&gt; </span></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="778427467%2FClasslikes%2F-1641032607" anchor-label="TrafficCongestionType" id="778427467%2FClasslikes%2F-1641032607" data-filterable-set=":tasSdk:navi-provider-sdk:NaviProvider:dokkaHtmlPartial/testRelease"></a>
+          <div class="table-row" data-filterable-current=":tasSdk:navi-provider-sdk:NaviProvider:dokkaHtmlPartial/testRelease" data-filterable-set=":tasSdk:navi-provider-sdk:NaviProvider:dokkaHtmlPartial/testRelease">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="-traffic-congestion-type/index-"><span>Traffic</span><wbr><span>Congestion</span><wbr><span><span>Type</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="778427467%2FClasslikes%2F-1641032607"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":tasSdk:navi-provider-sdk:NaviProvider:dokkaHtmlPartial/testRelease"><div class="symbol monospace"><span class="token keyword">enum </span><a href="-traffic-congestion-type/index-">TrafficCongestionType</a> : <a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-enum/index.html">Enum</a><span class="token operator">&lt;</span><span class="token keyword"></span><a href="-traffic-congestion-type/index-">TrafficCongestionType</a><span class="token operator">&gt; </span></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="247964642%2FClasslikes%2F-1641032607" anchor-label="TrafficEventType" id="247964642%2FClasslikes%2F-1641032607" data-filterable-set=":tasSdk:navi-provider-sdk:NaviProvider:dokkaHtmlPartial/testRelease"></a>
+          <div class="table-row" data-filterable-current=":tasSdk:navi-provider-sdk:NaviProvider:dokkaHtmlPartial/testRelease" data-filterable-set=":tasSdk:navi-provider-sdk:NaviProvider:dokkaHtmlPartial/testRelease">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="-traffic-event-type/index-"><span>Traffic</span><wbr><span>Event</span><wbr><span><span>Type</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="247964642%2FClasslikes%2F-1641032607"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":tasSdk:navi-provider-sdk:NaviProvider:dokkaHtmlPartial/testRelease"><div class="symbol monospace"><span class="token keyword">enum </span><a href="-traffic-event-type/index-">TrafficEventType</a> : <a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-enum/index.html">Enum</a><span class="token operator">&lt;</span><span class="token keyword"></span><a href="-traffic-event-type/index-">TrafficEventType</a><span class="token operator">&gt; </span></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="611962370%2FClasslikes%2F-1641032607" anchor-label="TurnType" id="611962370%2FClasslikes%2F-1641032607" data-filterable-set=":tasSdk:navi-provider-sdk:NaviProvider:dokkaHtmlPartial/testRelease"></a>
+          <div class="table-row" data-filterable-current=":tasSdk:navi-provider-sdk:NaviProvider:dokkaHtmlPartial/testRelease" data-filterable-set=":tasSdk:navi-provider-sdk:NaviProvider:dokkaHtmlPartial/testRelease">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="-turn-type/index-"><span>Turn</span><wbr><span><span>Type</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="611962370%2FClasslikes%2F-1641032607"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":tasSdk:navi-provider-sdk:NaviProvider:dokkaHtmlPartial/testRelease"><div class="symbol monospace"><span class="token keyword">enum </span><a href="-turn-type/index-">TurnType</a> : <a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-enum/index.html">Enum</a><span class="token operator">&lt;</span><span class="token keyword"></span><a href="-turn-type/index-">TurnType</a><span class="token operator">&gt; </span></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>

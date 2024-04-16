@@ -1,0 +1,124 @@
+
+  
+  <div class="cover ">
+    
+    <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":tasSdk:navigation-sdk:Navigation:dokkaHtmlPartial/testRelease"><div class="symbol monospace"><span class="token keyword">data </span><span class="token keyword">class </span><a href="index-">CameraAlert</a><span class="token punctuation">(</span><span class="parameters "><span class="parameter "><span class="token keyword">val </span>type<span class="token operator">: </span><a href="../../ai.umos.connect.navi.constants/-camera-type/index-">CameraType</a><span class="token punctuation">, </span></span><span class="parameter "><span class="token keyword">val </span>status<span class="token operator">: </span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-boolean/index.html">Boolean</a><span class="token punctuation">, </span></span><span class="parameter "><span class="token keyword">val </span>speedLimit<span class="token operator">: </span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html">Int</a><span class="token punctuation">, </span></span><span class="parameter "><span class="token keyword">val </span>remainDistance<span class="token operator">: </span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html">Int</a><span class="token punctuation">, </span></span><span class="parameter "><span class="token keyword">val </span>sectionAvrSpeed<span class="token operator">: </span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html">Int</a><span class="token punctuation">, </span></span><span class="parameter "><span class="token keyword">val </span>remainDistanceUntilSectionControl<span class="token operator">: </span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html">Int</a></span></span><span class="token punctuation">)</span></div><p class="paragraph">CameraAlert</p></div></div>
+  </div>
+  <div class="tabbedcontent">
+    <div class="tabs-section" tabs-section="tabs-section"><button class="section-tab" data-active="" data-togglable="CONSTRUCTOR,TYPE,PROPERTY,FUNCTION">Members</button></div>
+    <div class="tabs-section-body">
+      <div data-togglable="CONSTRUCTOR">
+        <h2 class="">Constructors</h2>
+        <div class="table"><a data-name="1947017571%2FConstructors%2F-988600454" anchor-label="CameraAlert" id="1947017571%2FConstructors%2F-988600454" data-filterable-set=":tasSdk:navigation-sdk:Navigation:dokkaHtmlPartial/testRelease"></a>
+          <div class="table-row" data-togglable="CONSTRUCTOR" data-filterable-current=":tasSdk:navigation-sdk:Navigation:dokkaHtmlPartial/testRelease" data-filterable-set=":tasSdk:navigation-sdk:Navigation:dokkaHtmlPartial/testRelease">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="-camera-alert-"><span>Camera</span><wbr><span><span>Alert</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="1947017571%2FConstructors%2F-988600454"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":tasSdk:navigation-sdk:Navigation:dokkaHtmlPartial/testRelease"><div class="symbol monospace"><span class="token keyword">constructor</span><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">type<span class="token operator">: </span><a href="../../ai.umos.connect.navi.constants/-camera-type/index-">CameraType</a><span class="token punctuation">, </span></span><span class="parameter ">status<span class="token operator">: </span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-boolean/index.html">Boolean</a><span class="token punctuation">, </span></span><span class="parameter ">speedLimit<span class="token operator">: </span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html">Int</a><span class="token punctuation">, </span></span><span class="parameter ">remainDistance<span class="token operator">: </span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html">Int</a><span class="token punctuation">, </span></span><span class="parameter ">sectionAvrSpeed<span class="token operator">: </span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html">Int</a><span class="token punctuation">, </span></span><span class="parameter ">remainDistanceUntilSectionControl<span class="token operator">: </span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html">Int</a></span></span><span class="token punctuation">)</span></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div data-togglable="PROPERTY">
+        <h2 class="">Properties</h2>
+        <div class="table"><a data-name="617206871%2FProperties%2F-988600454" anchor-label="remainDistance" id="617206871%2FProperties%2F-988600454" data-filterable-set=":tasSdk:navigation-sdk:Navigation:dokkaHtmlPartial/testRelease"></a>
+          <div class="table-row" data-filterable-current=":tasSdk:navigation-sdk:Navigation:dokkaHtmlPartial/testRelease" data-filterable-set=":tasSdk:navigation-sdk:Navigation:dokkaHtmlPartial/testRelease">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="remain-distance-"><span>remain</span><wbr><span><span>Distance</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="617206871%2FProperties%2F-988600454"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":tasSdk:navigation-sdk:Navigation:dokkaHtmlPartial/testRelease"><div class="symbol monospace"><span class="token keyword"></span><span class="token keyword">val </span><a href="remain-distance-">remainDistance</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html">Int</a></div><div class="brief "><p class="paragraph">remain distance (m)</p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="-391019507%2FProperties%2F-988600454" anchor-label="remainDistanceUntilSectionControl" id="-391019507%2FProperties%2F-988600454" data-filterable-set=":tasSdk:navigation-sdk:Navigation:dokkaHtmlPartial/testRelease"></a>
+          <div class="table-row" data-filterable-current=":tasSdk:navigation-sdk:Navigation:dokkaHtmlPartial/testRelease" data-filterable-set=":tasSdk:navigation-sdk:Navigation:dokkaHtmlPartial/testRelease">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="remain-distance-until-section-control-"><span>remain</span><wbr><span>Distance</span><wbr><span>Until</span><wbr><span>Section</span><wbr><span><span>Control</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-391019507%2FProperties%2F-988600454"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":tasSdk:navigation-sdk:Navigation:dokkaHtmlPartial/testRelease"><div class="symbol monospace"><span class="token keyword"></span><span class="token keyword">val </span><a href="remain-distance-until-section-control-">remainDistanceUntilSectionControl</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html">Int</a></div><div class="brief "><p class="paragraph">remain distance until section control (m), CameraType.SPEED_CAMERA_SECTION only</p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="324121747%2FProperties%2F-988600454" anchor-label="sectionAvrSpeed" id="324121747%2FProperties%2F-988600454" data-filterable-set=":tasSdk:navigation-sdk:Navigation:dokkaHtmlPartial/testRelease"></a>
+          <div class="table-row" data-filterable-current=":tasSdk:navigation-sdk:Navigation:dokkaHtmlPartial/testRelease" data-filterable-set=":tasSdk:navigation-sdk:Navigation:dokkaHtmlPartial/testRelease">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="section-avr-speed-"><span>section</span><wbr><span>Avr</span><wbr><span><span>Speed</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="324121747%2FProperties%2F-988600454"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":tasSdk:navigation-sdk:Navigation:dokkaHtmlPartial/testRelease"><div class="symbol monospace"><span class="token keyword"></span><span class="token keyword">val </span><a href="section-avr-speed-">sectionAvrSpeed</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html">Int</a></div><div class="brief "><p class="paragraph">section average speed (km/h), CameraType.SPEED_CAMERA_SECTION only</p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="567857156%2FProperties%2F-988600454" anchor-label="speedLimit" id="567857156%2FProperties%2F-988600454" data-filterable-set=":tasSdk:navigation-sdk:Navigation:dokkaHtmlPartial/testRelease"></a>
+          <div class="table-row" data-filterable-current=":tasSdk:navigation-sdk:Navigation:dokkaHtmlPartial/testRelease" data-filterable-set=":tasSdk:navigation-sdk:Navigation:dokkaHtmlPartial/testRelease">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="speed-limit-"><span>speed</span><wbr><span><span>Limit</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="567857156%2FProperties%2F-988600454"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":tasSdk:navigation-sdk:Navigation:dokkaHtmlPartial/testRelease"><div class="symbol monospace"><span class="token keyword"></span><span class="token keyword">val </span><a href="speed-limit-">speedLimit</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html">Int</a></div><div class="brief "><p class="paragraph">speed limit (km/h)</p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="-1607039226%2FProperties%2F-988600454" anchor-label="status" id="-1607039226%2FProperties%2F-988600454" data-filterable-set=":tasSdk:navigation-sdk:Navigation:dokkaHtmlPartial/testRelease"></a>
+          <div class="table-row" data-filterable-current=":tasSdk:navigation-sdk:Navigation:dokkaHtmlPartial/testRelease" data-filterable-set=":tasSdk:navigation-sdk:Navigation:dokkaHtmlPartial/testRelease">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="status-"><span><span>status</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1607039226%2FProperties%2F-988600454"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":tasSdk:navigation-sdk:Navigation:dokkaHtmlPartial/testRelease"><div class="symbol monospace"><span class="token keyword"></span><span class="token keyword">val </span><a href="status-">status</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-boolean/index.html">Boolean</a></div><div class="brief "><p class="paragraph">camera alert status</p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="580619134%2FProperties%2F-988600454" anchor-label="type" id="580619134%2FProperties%2F-988600454" data-filterable-set=":tasSdk:navigation-sdk:Navigation:dokkaHtmlPartial/testRelease"></a>
+          <div class="table-row" data-filterable-current=":tasSdk:navigation-sdk:Navigation:dokkaHtmlPartial/testRelease" data-filterable-set=":tasSdk:navigation-sdk:Navigation:dokkaHtmlPartial/testRelease">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="type-"><span><span>type</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="580619134%2FProperties%2F-988600454"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":tasSdk:navigation-sdk:Navigation:dokkaHtmlPartial/testRelease"><div class="symbol monospace"><span class="token keyword"></span><span class="token keyword">val </span><a href="type-">type</a><span class="token operator">: </span><a href="../../ai.umos.connect.navi.constants/-camera-type/index-">CameraType</a></div><div class="brief "><p class="paragraph">camera type @see CameraType</p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>

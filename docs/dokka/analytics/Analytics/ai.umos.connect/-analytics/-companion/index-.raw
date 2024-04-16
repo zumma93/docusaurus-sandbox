@@ -1,0 +1,45 @@
+
+  
+  <div class="cover ">
+    
+    <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":tasSdk:analytics:Analytics:dokkaHtmlPartial/testRelease"><div class="symbol monospace"><span class="token keyword">object </span><a href="index-">Companion</a></div></div></div>
+  </div>
+  <div class="tabbedcontent">
+    <div class="tabs-section" tabs-section="tabs-section"><button class="section-tab" data-active="" data-togglable="CONSTRUCTOR,TYPE,PROPERTY,FUNCTION">Members</button></div>
+    <div class="tabs-section-body">
+      <div data-togglable="FUNCTION">
+        <h2 class="">Functions</h2>
+        <div class="table"><a data-name="-1292184883%2FFunctions%2F73131637" anchor-label="create" id="-1292184883%2FFunctions%2F73131637" data-filterable-set=":tasSdk:analytics:Analytics:dokkaHtmlPartial/testRelease"></a>
+          <div class="table-row" data-filterable-current=":tasSdk:analytics:Analytics:dokkaHtmlPartial/testRelease" data-filterable-set=":tasSdk:analytics:Analytics:dokkaHtmlPartial/testRelease">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="create-"><span><span>create</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1292184883%2FFunctions%2F73131637"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":tasSdk:analytics:Analytics:dokkaHtmlPartial/testRelease"><div class="symbol monospace"><span class="token keyword"></span><span class="token keyword">fun </span><a href="create-"><span class="token function">create</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">type<span class="token operator">: </span><a href="../../-analytics-type/index-">AnalyticsType</a></span></span><span class="token punctuation">)</span><span class="token operator">: </span><a href="../../../ai.umos.connect.analytics.datadog/-analytics-manageable/index-">AnalyticsManageable</a></div><div class="brief "><p class="paragraph">Checks the platform type <a href="create-">type</a> and returns a platform instance object corresponding to the generic type AnalyticsManageable.</p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="1293779534%2FFunctions%2F73131637" anchor-label="getInstance" id="1293779534%2FFunctions%2F73131637" data-filterable-set=":tasSdk:analytics:Analytics:dokkaHtmlPartial/testRelease"></a>
+          <div class="table-row" data-filterable-current=":tasSdk:analytics:Analytics:dokkaHtmlPartial/testRelease" data-filterable-set=":tasSdk:analytics:Analytics:dokkaHtmlPartial/testRelease">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="get-instance-"><span>get</span><wbr><span><span>Instance</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="1293779534%2FFunctions%2F73131637"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":tasSdk:analytics:Analytics:dokkaHtmlPartial/testRelease"><div class="symbol monospace"><span class="token keyword"></span><span class="token keyword">fun </span><a href="get-instance-"><span class="token function">getInstance</span></a><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token operator">: </span><a href="../../../ai.umos.connect.analytics.datadog/-analytics-manageable/index-">AnalyticsManageable</a></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>

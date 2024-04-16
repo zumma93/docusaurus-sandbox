@@ -1,0 +1,49 @@
+
+  
+  <div class="cover ">
+    
+    <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":tasSdk:vehicle-sdk:Vehicle:dokkaHtmlPartial/testRelease"><div class="symbol monospace"><span class="token keyword">class </span><a href="index-">WheelArea</a><span class="token punctuation">(</span><span class="parameters "><span class="parameter "><span class="token keyword">val </span>values<span class="token operator">: </span><a href="../../ai.umos.connect.vehicle.constant.area/-wheel-value/index-">WheelValue</a></span></span><span class="token punctuation">)</span> : <a href="../-area/index-">Area</a></div></div></div>
+  </div>
+  <div class="tabbedcontent">
+    <div class="tabs-section" tabs-section="tabs-section"><button class="section-tab" data-active="" data-togglable="CONSTRUCTOR,TYPE,PROPERTY,FUNCTION">Members</button></div>
+    <div class="tabs-section-body">
+      <div data-togglable="CONSTRUCTOR">
+        <h2 class="">Constructors</h2>
+        <div class="table"><a data-name="59395076%2FConstructors%2F776984860" anchor-label="WheelArea" id="59395076%2FConstructors%2F776984860" data-filterable-set=":tasSdk:vehicle-sdk:Vehicle:dokkaHtmlPartial/testRelease"></a>
+          <div class="table-row" data-togglable="CONSTRUCTOR" data-filterable-current=":tasSdk:vehicle-sdk:Vehicle:dokkaHtmlPartial/testRelease" data-filterable-set=":tasSdk:vehicle-sdk:Vehicle:dokkaHtmlPartial/testRelease">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="-wheel-area-"><span>Wheel</span><wbr><span><span>Area</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="59395076%2FConstructors%2F776984860"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":tasSdk:vehicle-sdk:Vehicle:dokkaHtmlPartial/testRelease"><div class="symbol monospace"><span class="token keyword">constructor</span><span class="token punctuation">(</span><span class="parameters "><span class="parameter "><span class="token keyword">vararg </span>values<span class="token operator">: </span><a href="../../ai.umos.connect.vehicle.constant.area/-wheel-value/index-">WheelValue</a></span></span><span class="token punctuation">)</span></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div data-togglable="PROPERTY">
+        <h2 class="">Properties</h2>
+        <div class="table"><a data-name="-1871453219%2FProperties%2F776984860" anchor-label="values" id="-1871453219%2FProperties%2F776984860" data-filterable-set=":tasSdk:vehicle-sdk:Vehicle:dokkaHtmlPartial/testRelease"></a>
+          <div class="table-row" data-filterable-current=":tasSdk:vehicle-sdk:Vehicle:dokkaHtmlPartial/testRelease" data-filterable-set=":tasSdk:vehicle-sdk:Vehicle:dokkaHtmlPartial/testRelease">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="values-"><span><span>values</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1871453219%2FProperties%2F776984860"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":tasSdk:vehicle-sdk:Vehicle:dokkaHtmlPartial/testRelease"><div class="symbol monospace"><span class="token keyword"></span><span class="token keyword">val </span><a href="values-">values</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-array/index.html">Array</a><span class="token operator">&lt;</span><span class="token keyword">out </span><a href="../../ai.umos.connect.vehicle.constant.area/-wheel-value/index-">WheelValue</a><span class="token operator">&gt;</span></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>

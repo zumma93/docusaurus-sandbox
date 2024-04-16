@@ -1,0 +1,143 @@
+
+  
+  <div class="cover ">
+    
+    <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":tasSdk:vehicle-sdk:Vehicle:dokkaHtmlPartial/testRelease"><div class="symbol monospace"><span class="token keyword">enum </span><a href="index-">EvRegenerativeBrakingState</a> : <a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-enum/index.html">Enum</a><span class="token operator">&lt;</span><span class="token keyword"></span><a href="index-">EvRegenerativeBrakingState</a><span class="token operator">&gt; </span></div></div></div>
+  </div>
+  <div class="tabbedcontent">
+    <div class="tabs-section" tabs-section="tabs-section"><button class="section-tab" data-active="" data-togglable="CONSTRUCTOR,TYPE,PROPERTY,FUNCTION">Members</button><button class="section-tab" data-togglable="ENTRY">Entries</button></div>
+    <div class="tabs-section-body">
+      <div data-togglable="ENTRY">
+        <h2 class="">Entries</h2>
+        <div class="table"><a data-name="184841743%2FClasslikes%2F776984860" anchor-label="UNKNOWN" id="184841743%2FClasslikes%2F776984860" data-filterable-set=":tasSdk:vehicle-sdk:Vehicle:dokkaHtmlPartial/testRelease"></a>
+          <div class="table-row" data-togglable="ENTRY" data-filterable-current=":tasSdk:vehicle-sdk:Vehicle:dokkaHtmlPartial/testRelease" data-filterable-set=":tasSdk:vehicle-sdk:Vehicle:dokkaHtmlPartial/testRelease">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="-u-n-k-n-o-w-n/index-">UNKNOWN</a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="184841743%2FClasslikes%2F776984860"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":tasSdk:vehicle-sdk:Vehicle:dokkaHtmlPartial/testRelease"><div class="symbol monospace"><div class="block"><a href="-u-n-k-n-o-w-n/index-">UNKNOWN</a></div></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="-1570703521%2FClasslikes%2F776984860" anchor-label="DISABLED" id="-1570703521%2FClasslikes%2F776984860" data-filterable-set=":tasSdk:vehicle-sdk:Vehicle:dokkaHtmlPartial/testRelease"></a>
+          <div class="table-row" data-togglable="ENTRY" data-filterable-current=":tasSdk:vehicle-sdk:Vehicle:dokkaHtmlPartial/testRelease" data-filterable-set=":tasSdk:vehicle-sdk:Vehicle:dokkaHtmlPartial/testRelease">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="-d-i-s-a-b-l-e-d/index-">DISABLED</a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1570703521%2FClasslikes%2F776984860"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":tasSdk:vehicle-sdk:Vehicle:dokkaHtmlPartial/testRelease"><div class="symbol monospace"><div class="block"><a href="-d-i-s-a-b-l-e-d/index-">DISABLED</a></div></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="2113218741%2FClasslikes%2F776984860" anchor-label="PARTIALLY_ENABLED" id="2113218741%2FClasslikes%2F776984860" data-filterable-set=":tasSdk:vehicle-sdk:Vehicle:dokkaHtmlPartial/testRelease"></a>
+          <div class="table-row" data-togglable="ENTRY" data-filterable-current=":tasSdk:vehicle-sdk:Vehicle:dokkaHtmlPartial/testRelease" data-filterable-set=":tasSdk:vehicle-sdk:Vehicle:dokkaHtmlPartial/testRelease">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="-p-a-r-t-i-a-l-l-y_-e-n-a-b-l-e-d/index-">PARTIALLY_ENABLED</a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="2113218741%2FClasslikes%2F776984860"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":tasSdk:vehicle-sdk:Vehicle:dokkaHtmlPartial/testRelease"><div class="symbol monospace"><div class="block"><a href="-p-a-r-t-i-a-l-l-y_-e-n-a-b-l-e-d/index-">PARTIALLY_ENABLED</a></div></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="-297117391%2FClasslikes%2F776984860" anchor-label="FULLY_ENABLED" id="-297117391%2FClasslikes%2F776984860" data-filterable-set=":tasSdk:vehicle-sdk:Vehicle:dokkaHtmlPartial/testRelease"></a>
+          <div class="table-row" data-togglable="ENTRY" data-filterable-current=":tasSdk:vehicle-sdk:Vehicle:dokkaHtmlPartial/testRelease" data-filterable-set=":tasSdk:vehicle-sdk:Vehicle:dokkaHtmlPartial/testRelease">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="-f-u-l-l-y_-e-n-a-b-l-e-d/index-">FULLY_ENABLED</a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-297117391%2FClasslikes%2F776984860"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":tasSdk:vehicle-sdk:Vehicle:dokkaHtmlPartial/testRelease"><div class="symbol monospace"><div class="block"><a href="-f-u-l-l-y_-e-n-a-b-l-e-d/index-">FULLY_ENABLED</a></div></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div data-togglable="PROPERTY">
+        <h2 class="">Properties</h2>
+        <div class="table"><a data-name="-372974862%2FProperties%2F776984860" anchor-label="name" id="-372974862%2FProperties%2F776984860" data-filterable-set=":tasSdk:vehicle-sdk:Vehicle:dokkaHtmlPartial/testRelease"></a>
+          <div class="table-row" data-filterable-current=":tasSdk:vehicle-sdk:Vehicle:dokkaHtmlPartial/testRelease" data-filterable-set=":tasSdk:vehicle-sdk:Vehicle:dokkaHtmlPartial/testRelease">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="../../ai.umos.connect.vehicle.constant.unit/-temperature-unit/-f-a-h-r-e-n-h-e-i-t/index-#-372974862%2FProperties%2F776984860"><span><span>name</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-372974862%2FProperties%2F776984860"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":tasSdk:vehicle-sdk:Vehicle:dokkaHtmlPartial/testRelease"><div class="symbol monospace"><span class="token keyword"></span><span class="token keyword">val </span><a href="../../ai.umos.connect.vehicle.constant.unit/-temperature-unit/-f-a-h-r-e-n-h-e-i-t/index-#-372974862%2FProperties%2F776984860">name</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html">String</a></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="-739389684%2FProperties%2F776984860" anchor-label="ordinal" id="-739389684%2FProperties%2F776984860" data-filterable-set=":tasSdk:vehicle-sdk:Vehicle:dokkaHtmlPartial/testRelease"></a>
+          <div class="table-row" data-filterable-current=":tasSdk:vehicle-sdk:Vehicle:dokkaHtmlPartial/testRelease" data-filterable-set=":tasSdk:vehicle-sdk:Vehicle:dokkaHtmlPartial/testRelease">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="../../ai.umos.connect.vehicle.constant.unit/-temperature-unit/-f-a-h-r-e-n-h-e-i-t/index-#-739389684%2FProperties%2F776984860"><span><span>ordinal</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-739389684%2FProperties%2F776984860"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":tasSdk:vehicle-sdk:Vehicle:dokkaHtmlPartial/testRelease"><div class="symbol monospace"><span class="token keyword"></span><span class="token keyword">val </span><a href="../../ai.umos.connect.vehicle.constant.unit/-temperature-unit/-f-a-h-r-e-n-h-e-i-t/index-#-739389684%2FProperties%2F776984860">ordinal</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html">Int</a></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div data-togglable="FUNCTION">
+        <h2 class="">Functions</h2>
+        <div class="table"><a data-name="-474553857%2FFunctions%2F776984860" anchor-label="valueOf" id="-474553857%2FFunctions%2F776984860" data-filterable-set=":tasSdk:vehicle-sdk:Vehicle:dokkaHtmlPartial/testRelease"></a>
+          <div class="table-row" data-filterable-current=":tasSdk:vehicle-sdk:Vehicle:dokkaHtmlPartial/testRelease" data-filterable-set=":tasSdk:vehicle-sdk:Vehicle:dokkaHtmlPartial/testRelease">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="value-of-"><span>value</span><wbr><span><span>Of</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-474553857%2FFunctions%2F776984860"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":tasSdk:vehicle-sdk:Vehicle:dokkaHtmlPartial/testRelease"><div class="symbol monospace"><span class="token keyword"></span><span class="token keyword">fun </span><a href="value-of-"><span class="token function">valueOf</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">value<span class="token operator">: </span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html">String</a></span></span><span class="token punctuation">)</span><span class="token operator">: </span><a href="index-">EvRegenerativeBrakingState</a></div><div class="brief "><p class="paragraph">Returns the enum constant of this type with the specified name. The string must match exactly an identifier used to declare an enum constant in this type. (Extraneous whitespace characters are not permitted.)</p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="-782333621%2FFunctions%2F776984860" anchor-label="values" id="-782333621%2FFunctions%2F776984860" data-filterable-set=":tasSdk:vehicle-sdk:Vehicle:dokkaHtmlPartial/testRelease"></a>
+          <div class="table-row" data-filterable-current=":tasSdk:vehicle-sdk:Vehicle:dokkaHtmlPartial/testRelease" data-filterable-set=":tasSdk:vehicle-sdk:Vehicle:dokkaHtmlPartial/testRelease">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="values-"><span><span>values</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-782333621%2FFunctions%2F776984860"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":tasSdk:vehicle-sdk:Vehicle:dokkaHtmlPartial/testRelease"><div class="symbol monospace"><span class="token keyword"></span><span class="token keyword">fun </span><a href="values-"><span class="token function">values</span></a><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token operator">: </span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-array/index.html">Array</a><span class="token operator">&lt;</span><span class="token keyword"></span><a href="index-">EvRegenerativeBrakingState</a><span class="token operator">&gt;</span></div><div class="brief "><p class="paragraph">Returns an array containing the constants of this enum type, in the order they're declared.</p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
