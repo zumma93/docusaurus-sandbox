@@ -1,6 +1,0 @@
-
-  
-  <div class="cover ">
-    
-  </div>
-  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":tasSdk:vehicle-sdk:Vehicle:dokkaHtmlPartial/testRelease"><div class="symbol monospace"><span class="token keyword">abstract </span><span class="token keyword"></span><span class="token keyword">fun </span><a href="on-selected-"><span class="token function">onSelected</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">gear<span class="token operator">: </span><a href="../../ai.umos.connect.vehicle.constant.control/-vehicle-gear/index-">VehicleGear</a><span class="token operator">?</span></span></span><span class="token punctuation">)</span></div><p class="paragraph">Callback invoked when the gear selection changes.</p></div></div>

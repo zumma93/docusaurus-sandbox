@@ -1,6 +1,0 @@
-
-  
-  <div class="cover ">
-    
-  </div>
-  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":tasSdk:navigation-sdk:Navigation:dokkaHtmlPartial/testRelease"><div class="symbol monospace"><span class="token keyword">open </span><span class="token keyword"></span><span class="token keyword">fun </span><a href="on-destination-info-"><span class="token function">onDestinationInfo</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">destinationInfo<span class="token operator">: </span><a href="../../ai.umos.connect.navi.data/-destination-info/index-">DestinationInfo</a></span></span><span class="token punctuation">)</span></div><p class="paragraph">onDestinationInfo</p><h4 class="">See also</h4><div class="table"><div class="table-row" data-filterable-current=":tasSdk:navigation-sdk:Navigation:dokkaHtmlPartial/testRelease" data-filterable-set=":tasSdk:navigation-sdk:Navigation:dokkaHtmlPartial/testRelease"><div class="main-subrow keyValue "><div class=""><span class="inline-flex"><div><a href="../../ai.umos.connect.navi.data/-destination-info/index-"><span>Destination</span><wbr><span><span>Info</span></span></a></div></span></div><div></div></div></div></div></div></div>

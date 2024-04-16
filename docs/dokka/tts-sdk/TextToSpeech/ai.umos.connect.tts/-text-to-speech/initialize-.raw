@@ -1,6 +1,0 @@
-
-  
-  <div class="cover ">
-    
-  </div>
-  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":tasSdk:tts-sdk:TextToSpeech:dokkaHtmlPartial/testRelease"><div class="symbol monospace"><span class="token keyword"></span><span class="token keyword">fun </span><a href="initialize-"><span class="token function">initialize</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">speaker<span class="token operator">: </span><a href="../../ai.umos.connect.tts.constant/-speaker-type/index-">SpeakerType</a></span></span><span class="token punctuation">)</span></div><p class="paragraph">Initialize TextToSpeech SDK with SpeakerType When app starts or creates, app should call the initialize of sdk</p><h4 class="">Parameters</h4><div class="table"><div class="table-row" data-filterable-current=":tasSdk:tts-sdk:TextToSpeech:dokkaHtmlPartial/testRelease" data-filterable-set=":tasSdk:tts-sdk:TextToSpeech:dokkaHtmlPartial/testRelease"><div class="main-subrow keyValue "><div class=""><span class="inline-flex"><div><u><span>Speaker</span><wbr><span><span>Type</span></span></u></div></span></div><div><div class="title"><p class="paragraph">EUNHYE, GYUHYEOK</p></div></div></div></div></div></div></div>

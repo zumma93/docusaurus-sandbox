@@ -1,6 +1,0 @@
-
-  
-  <div class="cover ">
-    
-  </div>
-  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":tasSdk:tts-sdk:TextToSpeech:dokkaHtmlPartial/testRelease"><div class="symbol monospace"><span class="token keyword"></span><span class="token keyword">fun </span><a href="release-"><span class="token function">release</span></a><span class="token punctuation">(</span><span class="token punctuation">)</span></div><p class="paragraph">Release TextToSpeech SDK When app ends or destroys, app should call the release of sdk</p></div></div>
